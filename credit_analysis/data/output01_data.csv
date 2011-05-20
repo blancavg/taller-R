@@ -1,0 +1,1001 @@
+purpose;credit_amount;personal_status;housing;job;age;class
+radio/tv;1169;male single;own;skilled;(60,70];good
+radio/tv;5951;female div/dep/mar;own;skilled;(18,30];bad
+education;2096;male single;own;unskilled resident;(40,50];good
+furniture/equipment;7882;male single;for free;skilled;(40,50];good
+new car;4870;male single;for free;skilled;(50,60];bad
+education;9055;male single;for free;unskilled resident;(30,40];good
+furniture/equipment;2835;male single;own;skilled;(50,60];good
+used car;6948;male single;rent;high qualif/self emp/mgmt;(30,40];good
+radio/tv;3059;male div/sep;own;unskilled resident;(60,70];good
+new car;5234;male mar/wid;own;high qualif/self emp/mgmt;(18,30];bad
+new car;1295;female div/dep/mar;rent;skilled;(18,30];bad
+business;4308;female div/dep/mar;rent;skilled;(18,30];bad
+radio/tv;1567;female div/dep/mar;own;skilled;(18,30];good
+new car;1199;male single;own;unskilled resident;(50,60];bad
+new car;1403;female div/dep/mar;rent;skilled;(18,30];good
+radio/tv;1282;female div/dep/mar;own;unskilled resident;(30,40];bad
+radio/tv;2424;male single;own;skilled;(50,60];good
+business;8072;male single;own;skilled;(18,30];good
+used car;12579;female div/dep/mar;for free;high qualif/self emp/mgmt;(40,50];bad
+radio/tv;3430;male single;own;skilled;(30,40];good
+new car;2134;male single;own;skilled;(40,50];good
+radio/tv;2647;male single;rent;skilled;(40,50];good
+new car;2241;male single;rent;unskilled resident;(40,50];good
+used car;1804;male single;own;skilled;(40,50];good
+furniture/equipment;2069;male mar/wid;own;skilled;(18,30];good
+furniture/equipment;1374;male single;own;unskilled resident;(30,40];good
+radio/tv;426;male mar/wid;own;unskilled resident;(30,40];good
+radio/tv;409;female div/dep/mar;rent;skilled;(40,50];good
+radio/tv;2415;male single;own;skilled;(30,40];good
+business;6836;male single;own;skilled;(60,70];bad
+business;1913;male mar/wid;own;skilled;(30,40];good
+furniture/equipment;4020;male single;own;skilled;(18,30];good
+new car;5866;male single;own;skilled;(18,30];good
+business;1264;male single;rent;unskilled resident;(50,60];good
+furniture/equipment;1474;female div/dep/mar;own;high qualif/self emp/mgmt;(30,40];good
+radio/tv;4746;male single;own;unskilled resident;(18,30];bad
+education;6110;male single;for free;skilled;(30,40];good
+radio/tv;2100;male single;own;skilled;(30,40];bad
+domestic appliance;1225;male single;own;skilled;(30,40];good
+radio/tv;458;male single;own;skilled;(18,30];good
+radio/tv;2333;male single;own;high qualif/self emp/mgmt;(18,30];good
+radio/tv;1158;male div/sep;own;skilled;(18,30];good
+repairs;6204;male single;own;unskilled resident;(40,50];good
+used car;6187;male mar/wid;rent;skilled;(18,30];good
+used car;6143;female div/dep/mar;for free;unskilled resident;(50,60];bad
+new car;1393;female div/dep/mar;own;high qualif/self emp/mgmt;(30,40];good
+radio/tv;2299;male single;own;skilled;(30,40];good
+used car;1352;female div/dep/mar;rent;unemp/unskilled non res;(18,30];good
+new car;7228;male single;own;unskilled resident;(30,40];good
+radio/tv;2073;female div/dep/mar;own;skilled;(18,30];good
+furniture/equipment;2333;male single;own;unskilled resident;(18,30];good
+used car;5965;male single;own;high qualif/self emp/mgmt;(18,30];good
+radio/tv;1262;male single;own;skilled;(18,30];good
+used car;3378;male single;own;skilled;(30,40];good
+new car;2225;male single;for free;skilled;(50,60];bad
+new car;783;male single;own;unskilled resident;(18,30];good
+radio/tv;6468;male single;own;high qualif/self emp/mgmt;(50,60];bad
+radio/tv;9566;female div/dep/mar;own;skilled;(30,40];good
+new car;1961;female div/dep/mar;own;high qualif/self emp/mgmt;(18,30];good
+furniture/equipment;6229;female div/dep/mar;rent;unskilled resident;(18,30];bad
+business;1391;male mar/wid;own;skilled;(18,30];good
+radio/tv;1537;male single;own;skilled;(40,50];good
+business;1953;male single;for free;high qualif/self emp/mgmt;(60,70];bad
+business;14421;male single;own;skilled;(18,30];bad
+radio/tv;3181;female div/dep/mar;own;skilled;(18,30];good
+repairs;5190;male single;own;skilled;(40,50];good
+radio/tv;2171;female div/dep/mar;own;skilled;(18,30];good
+new car;1007;male mar/wid;own;skilled;(18,30];good
+education;1819;male single;for free;skilled;(30,40];bad
+radio/tv;2394;female div/dep/mar;own;skilled;(18,30];good
+used car;8133;female div/dep/mar;own;skilled;(18,30];good
+radio/tv;730;male single;rent;unskilled resident;(40,50];good
+other;1164;male single;for free;high qualif/self emp/mgmt;(50,60];good
+business;5954;female div/dep/mar;own;unskilled resident;(40,50];good
+education;1977;male single;own;high qualif/self emp/mgmt;(30,40];bad
+used car;1526;male single;for free;high qualif/self emp/mgmt;(60,70];good
+radio/tv;3965;male single;own;skilled;(30,40];bad
+radio/tv;4771;male single;own;skilled;(50,60];good
+used car;9436;male single;own;unskilled resident;(30,40];good
+furniture/equipment;3832;male mar/wid;own;skilled;(18,30];good
+radio/tv;5943;female div/dep/mar;own;skilled;(40,50];bad
+radio/tv;1213;male single;own;skilled;(40,50];good
+business;1568;female div/dep/mar;rent;unskilled resident;(18,30];good
+other;1755;female div/dep/mar;own;unskilled resident;(50,60];good
+radio/tv;2315;male single;own;unskilled resident;(50,60];good
+business;1412;female div/dep/mar;own;high qualif/self emp/mgmt;(18,30];good
+furniture/equipment;1295;female div/dep/mar;own;skilled;(18,30];good
+education;12612;male single;for free;skilled;(40,50];bad
+new car;2249;male single;own;high qualif/self emp/mgmt;(18,30];good
+repairs;1108;male single;own;skilled;(18,30];bad
+radio/tv;618;male single;own;skilled;(50,60];good
+used car;1409;male single;own;skilled;(50,60];good
+radio/tv;797;female div/dep/mar;own;unskilled resident;(30,40];bad
+furniture/equipment;3617;male single;rent;skilled;(18,30];good
+new car;1318;male single;own;skilled;(50,60];good
+business;15945;male single;rent;skilled;(50,60];bad
+education;2012;female div/dep/mar;own;skilled;(60,70];good
+business;2622;male single;own;skilled;(30,40];good
+radio/tv;2337;male single;own;skilled;(30,40];good
+used car;7057;male single;rent;high qualif/self emp/mgmt;(30,40];good
+new car;1469;male mar/wid;rent;unskilled resident;(40,50];good
+radio/tv;2323;male single;rent;skilled;(18,30];good
+radio/tv;932;female div/dep/mar;own;skilled;(18,30];good
+furniture/equipment;1919;male single;rent;skilled;(30,40];good
+used car;2445;male mar/wid;rent;skilled;(18,30];good
+other;11938;male single;own;high qualif/self emp/mgmt;(30,40];bad
+new car;6458;male single;own;high qualif/self emp/mgmt;(30,40];bad
+new car;6078;male single;own;skilled;(30,40];good
+furniture/equipment;7721;female div/dep/mar;own;skilled;(18,30];good
+business;1410;male mar/wid;own;skilled;(30,40];good
+business;1449;male div/sep;own;skilled;(30,40];good
+education;392;female div/dep/mar;rent;skilled;(18,30];good
+new car;6260;male single;rent;unskilled resident;(18,30];good
+new car;7855;female div/dep/mar;own;skilled;(18,30];bad
+radio/tv;1680;male mar/wid;own;skilled;(30,40];good
+radio/tv;3578;male single;own;skilled;(40,50];good
+radio/tv;7174;female div/dep/mar;own;high qualif/self emp/mgmt;(18,30];bad
+furniture/equipment;2132;female div/dep/mar;rent;skilled;(18,30];good
+furniture/equipment;4281;female div/dep/mar;own;skilled;(18,30];bad
+new car;2366;male div/sep;own;high qualif/self emp/mgmt;(30,40];good
+radio/tv;1835;female div/dep/mar;own;skilled;(18,30];bad
+used car;3868;female div/dep/mar;rent;high qualif/self emp/mgmt;(40,50];good
+furniture/equipment;1768;male single;rent;unskilled resident;(18,30];good
+new car;781;male single;for free;skilled;(60,70];good
+furniture/equipment;1924;female div/dep/mar;rent;skilled;(18,30];bad
+new car;2121;male single;own;skilled;(18,30];good
+radio/tv;701;male mar/wid;own;unskilled resident;(30,40];good
+repairs;639;male single;own;skilled;(18,30];bad
+used car;1860;male single;own;high qualif/self emp/mgmt;(30,40];good
+new car;3499;female div/dep/mar;own;skilled;(18,30];bad
+new car;8487;female div/dep/mar;own;skilled;(18,30];good
+education;6887;male single;own;skilled;(18,30];bad
+furniture/equipment;2708;male single;own;unskilled resident;(18,30];good
+furniture/equipment;1984;male single;for free;skilled;(40,50];good
+radio/tv;10144;female div/dep/mar;own;skilled;(18,30];good
+radio/tv;1240;female div/dep/mar;own;skilled;(30,40];good
+used car;8613;male single;own;skilled;(18,30];good
+radio/tv;766;male single;own;unskilled resident;(60,70];bad
+radio/tv;2728;male single;own;skilled;(30,40];good
+radio/tv;1881;female div/dep/mar;rent;unskilled resident;(40,50];good
+new car;709;male mar/wid;own;unemp/unskilled non res;(18,30];good
+radio/tv;4795;female div/dep/mar;own;high qualif/self emp/mgmt;(18,30];good
+radio/tv;3416;male single;own;high qualif/self emp/mgmt;(18,30];good
+furniture/equipment;2462;male single;own;skilled;(18,30];bad
+furniture/equipment;2288;female div/dep/mar;own;skilled;(18,30];good
+business;3566;male single;own;skilled;(18,30];good
+new car;860;female div/dep/mar;own;skilled;(30,40];good
+new car;682;female div/dep/mar;own;skilled;(50,60];good
+furniture/equipment;5371;male single;own;skilled;(18,30];good
+radio/tv;1582;male single;own;skilled;(40,50];good
+radio/tv;1346;male single;for free;skilled;(40,50];good
+radio/tv;1924;male single;own;skilled;(30,40];good
+radio/tv;5848;male single;own;skilled;(18,30];good
+used car;7758;female div/dep/mar;rent;skilled;(18,30];good
+business;6967;male single;rent;high qualif/self emp/mgmt;(30,40];good
+furniture/equipment;1282;female div/dep/mar;rent;skilled;(18,30];bad
+repairs;1288;male single;own;skilled;(40,50];good
+retraining;339;male mar/wid;own;unskilled resident;(40,50];good
+new car;3512;male single;own;skilled;(30,40];good
+radio/tv;1898;male single;own;unskilled resident;(30,40];good
+radio/tv;2872;male single;own;skilled;(30,40];good
+new car;1055;female div/dep/mar;own;skilled;(18,30];good
+domestic appliance;1262;male single;own;skilled;(30,40];good
+new car;7308;male single;for free;high qualif/self emp/mgmt;(60,70];good
+new car;909;male single;own;skilled;(30,40];good
+furniture/equipment;2978;male single;own;skilled;(30,40];good
+furniture/equipment;1131;female div/dep/mar;own;skilled;(30,40];bad
+furniture/equipment;1577;female div/dep/mar;own;skilled;(18,30];good
+furniture/equipment;3972;female div/dep/mar;rent;skilled;(18,30];good
+business;1935;male div/sep;own;skilled;(30,40];bad
+new car;950;male single;rent;skilled;(30,40];bad
+furniture/equipment;763;female div/dep/mar;own;skilled;(18,30];good
+furniture/equipment;2064;female div/dep/mar;own;high qualif/self emp/mgmt;(30,40];bad
+radio/tv;1414;male single;own;skilled;(30,40];good
+education;3414;male single;own;skilled;(18,30];bad
+used car;7485;female div/dep/mar;own;high qualif/self emp/mgmt;(50,60];bad
+furniture/equipment;2577;male div/sep;own;skilled;(40,50];good
+radio/tv;338;male single;own;skilled;(50,60];good
+radio/tv;1963;male single;rent;high qualif/self emp/mgmt;(30,40];good
+new car;571;male single;own;skilled;(60,70];good
+business;9572;male div/sep;own;skilled;(18,30];bad
+business;4455;male div/sep;own;high qualif/self emp/mgmt;(18,30];bad
+new car;1647;male single;own;unskilled resident;(30,40];bad
+furniture/equipment;3777;male single;own;skilled;(40,50];good
+new car;884;male single;own;skilled;(30,40];bad
+radio/tv;1360;male single;own;skilled;(30,40];good
+used car;5129;female div/dep/mar;for free;high qualif/self emp/mgmt;(70,80];bad
+new car;1175;male single;for free;unemp/unskilled non res;(60,70];good
+radio/tv;674;male mar/wid;own;skilled;(18,30];bad
+furniture/equipment;3244;female div/dep/mar;own;skilled;(30,40];good
+business;4591;male single;own;high qualif/self emp/mgmt;(50,60];bad
+business;3844;male single;for free;unskilled resident;(30,40];bad
+business;3915;male single;own;skilled;(30,40];bad
+radio/tv;2108;male mar/wid;rent;skilled;(18,30];good
+radio/tv;3031;male single;rent;skilled;(18,30];bad
+education;1501;female div/dep/mar;own;high qualif/self emp/mgmt;(30,40];bad
+radio/tv;1382;female div/dep/mar;own;skilled;(18,30];good
+furniture/equipment;951;female div/dep/mar;rent;skilled;(18,30];bad
+used car;2760;male single;for free;skilled;(30,40];good
+furniture/equipment;4297;male div/sep;own;high qualif/self emp/mgmt;(30,40];bad
+education;936;male single;own;skilled;(50,60];good
+new car;1168;male mar/wid;own;unskilled resident;(18,30];good
+business;5117;male single;own;skilled;(18,30];good
+retraining;902;male mar/wid;rent;skilled;(18,30];bad
+new car;1495;male single;own;unskilled resident;(30,40];good
+used car;10623;male single;for free;high qualif/self emp/mgmt;(30,40];good
+furniture/equipment;1935;male single;own;skilled;(40,50];good
+domestic appliance;1424;male single;own;skilled;(18,30];good
+business;6568;male mar/wid;own;unskilled resident;(18,30];good
+used car;1413;male single;own;skilled;(50,60];good
+radio/tv;3074;male single;own;skilled;(30,40];good
+radio/tv;3835;female div/dep/mar;own;unskilled resident;(40,50];good
+business;5293;male single;own;skilled;(40,50];bad
+business;1908;male single;own;high qualif/self emp/mgmt;(60,70];bad
+radio/tv;3342;male single;own;skilled;(50,60];good
+retraining;932;female div/dep/mar;own;unskilled resident;(30,40];good
+business;3104;male single;own;skilled;(30,40];good
+radio/tv;3913;male single;own;skilled;(18,30];good
+furniture/equipment;3021;male div/sep;rent;unskilled resident;(18,30];good
+new car;1364;female div/dep/mar;own;skilled;(60,70];good
+radio/tv;625;male mar/wid;own;unskilled resident;(18,30];good
+education;1200;female div/dep/mar;rent;skilled;(18,30];good
+radio/tv;707;male single;own;skilled;(18,30];good
+business;2978;male single;own;skilled;(30,40];good
+used car;4657;male single;own;skilled;(18,30];good
+repairs;2613;male single;own;skilled;(18,30];good
+radio/tv;10961;male single;own;skilled;(18,30];bad
+furniture/equipment;7865;male single;for free;high qualif/self emp/mgmt;(50,60];bad
+radio/tv;1478;male single;own;skilled;(18,30];bad
+furniture/equipment;3149;male single;for free;skilled;(18,30];good
+radio/tv;4210;male single;own;skilled;(18,30];bad
+new car;2507;male single;for free;unskilled resident;(50,60];good
+radio/tv;2141;male single;own;skilled;(30,40];good
+radio/tv;866;male mar/wid;own;unskilled resident;(18,30];good
+radio/tv;1544;male single;own;unskilled resident;(40,50];good
+radio/tv;1823;male single;own;high qualif/self emp/mgmt;(18,30];bad
+new car;14555;male single;own;unemp/unskilled non res;(18,30];bad
+business;2767;male div/sep;rent;unskilled resident;(60,70];bad
+radio/tv;1291;female div/dep/mar;own;skilled;(30,40];good
+radio/tv;2522;male single;own;skilled;(30,40];good
+new car;915;female div/dep/mar;own;skilled;(18,30];bad
+radio/tv;1595;male single;own;skilled;(50,60];good
+used car;4605;male single;for free;skilled;(18,30];bad
+business;1185;female div/dep/mar;own;skilled;(18,30];good
+retraining;3447;female div/dep/mar;own;unskilled resident;(30,40];good
+business;1258;male single;own;skilled;(18,30];good
+radio/tv;717;male single;own;skilled;(50,60];good
+new car;1204;male single;rent;skilled;(30,40];good
+furniture/equipment;1925;male single;own;skilled;(18,30];good
+radio/tv;433;female div/dep/mar;rent;skilled;(18,30];bad
+new car;666;female div/dep/mar;own;unskilled resident;(30,40];good
+furniture/equipment;2251;female div/dep/mar;own;unskilled resident;(40,50];good
+new car;2150;female div/dep/mar;own;skilled;(18,30];bad
+furniture/equipment;4151;male single;own;skilled;(30,40];good
+furniture/equipment;2030;male single;own;skilled;(18,30];good
+radio/tv;7418;male single;own;unskilled resident;(18,30];good
+radio/tv;2684;male single;own;unskilled resident;(30,40];good
+radio/tv;2149;male div/sep;for free;skilled;(18,30];bad
+used car;3812;female div/dep/mar;own;skilled;(18,30];good
+radio/tv;1154;female div/dep/mar;own;unskilled resident;(50,60];good
+furniture/equipment;1657;male single;own;skilled;(18,30];good
+radio/tv;1603;female div/dep/mar;own;skilled;(50,60];good
+new car;5302;male single;for free;high qualif/self emp/mgmt;(30,40];good
+education;2748;female div/dep/mar;for free;unskilled resident;(50,60];good
+new car;1231;male single;own;unskilled resident;(30,40];good
+radio/tv;802;male single;own;skilled;(30,40];bad
+business;6304;male single;own;skilled;(30,40];good
+radio/tv;1533;female div/dep/mar;own;skilled;(30,40];good
+new car;8978;male div/sep;own;high qualif/self emp/mgmt;(40,50];bad
+radio/tv;999;male single;own;skilled;(18,30];good
+new car;2662;male single;own;skilled;(30,40];good
+furniture/equipment;1402;female div/dep/mar;rent;skilled;(30,40];good
+new car;12169;male single;for free;high qualif/self emp/mgmt;(30,40];good
+radio/tv;3060;male single;own;skilled;(18,30];bad
+repairs;11998;male div/sep;own;unskilled resident;(30,40];bad
+radio/tv;2697;male single;own;skilled;(30,40];good
+radio/tv;2404;female div/dep/mar;own;skilled;(18,30];good
+furniture/equipment;1262;male div/sep;own;unskilled resident;(40,50];good
+furniture/equipment;4611;female div/dep/mar;own;skilled;(30,40];bad
+radio/tv;1901;male single;rent;high qualif/self emp/mgmt;(18,30];good
+used car;3368;male single;rent;skilled;(18,30];good
+furniture/equipment;1574;male single;own;skilled;(40,50];good
+radio/tv;1445;male single;own;unskilled resident;(40,50];good
+furniture/equipment;1520;male single;own;skilled;(60,70];good
+new car;3878;male div/sep;own;skilled;(30,40];good
+new car;10722;female div/dep/mar;own;unskilled resident;(30,40];good
+used car;4788;male single;own;skilled;(18,30];good
+other;7582;male single;for free;high qualif/self emp/mgmt;(30,40];good
+radio/tv;1092;female div/dep/mar;own;skilled;(40,50];good
+radio/tv;1024;male mar/wid;own;skilled;(40,50];bad
+business;1076;male mar/wid;own;skilled;(18,30];good
+used car;9398;male mar/wid;rent;high qualif/self emp/mgmt;(18,30];bad
+used car;6419;female div/dep/mar;for free;high qualif/self emp/mgmt;(40,50];good
+used car;4796;male single;for free;skilled;(50,60];good
+business;7629;male div/sep;own;high qualif/self emp/mgmt;(40,50];good
+furniture/equipment;9960;female div/dep/mar;own;skilled;(18,30];bad
+used car;4675;female div/dep/mar;rent;skilled;(18,30];good
+new car;1287;male single;own;unskilled resident;(40,50];good
+furniture/equipment;2515;male single;own;skilled;(40,50];good
+furniture/equipment;2745;male single;own;skilled;(30,40];good
+new car;672;female div/dep/mar;own;unemp/unskilled non res;(50,60];good
+radio/tv;3804;female div/dep/mar;own;skilled;(40,50];bad
+new car;1344;male single;own;unskilled resident;(30,40];bad
+new car;1038;male single;own;skilled;(40,50];good
+new car;10127;male single;for free;skilled;(40,50];bad
+furniture/equipment;1543;male div/sep;own;skilled;(30,40];good
+used car;4811;female div/dep/mar;rent;unskilled resident;(18,30];good
+radio/tv;727;male mar/wid;own;unskilled resident;(30,40];bad
+furniture/equipment;1237;female div/dep/mar;own;skilled;(18,30];bad
+new car;276;male mar/wid;rent;unskilled resident;(18,30];good
+other;5381;male single;for free;unemp/unskilled non res;(30,40];good
+furniture/equipment;5511;male single;own;skilled;(18,30];good
+furniture/equipment;3749;female div/dep/mar;own;skilled;(18,30];good
+new car;685;male mar/wid;own;unskilled resident;(18,30];bad
+new car;1494;male single;own;unskilled resident;(18,30];good
+furniture/equipment;2746;male single;own;skilled;(30,40];bad
+furniture/equipment;708;male single;own;unskilled resident;(30,40];good
+furniture/equipment;4351;female div/dep/mar;own;unskilled resident;(40,50];good
+education;701;male single;own;skilled;(30,40];good
+furniture/equipment;3643;female div/dep/mar;own;unskilled resident;(18,30];good
+new car;4249;male mar/wid;own;high qualif/self emp/mgmt;(18,30];bad
+radio/tv;1938;male div/sep;own;skilled;(30,40];bad
+used car;2910;male single;for free;high qualif/self emp/mgmt;(30,40];good
+furniture/equipment;2659;male single;own;skilled;(18,30];good
+new car;1028;female div/dep/mar;own;skilled;(30,40];good
+new car;3398;male single;own;unskilled resident;(30,40];good
+furniture/equipment;5801;male single;rent;skilled;(40,50];good
+new car;1525;female div/dep/mar;own;skilled;(30,40];good
+radio/tv;4473;male single;own;skilled;(30,40];good
+radio/tv;1068;male single;own;skilled;(18,30];good
+used car;6615;male single;for free;high qualif/self emp/mgmt;(70,80];good
+education;1864;female div/dep/mar;own;skilled;(18,30];bad
+new car;7408;female div/dep/mar;own;high qualif/self emp/mgmt;(18,30];bad
+used car;11590;female div/dep/mar;rent;unskilled resident;(18,30];bad
+furniture/equipment;4110;male single;rent;skilled;(18,30];bad
+furniture/equipment;3384;male div/sep;rent;high qualif/self emp/mgmt;(40,50];bad
+radio/tv;2101;female div/dep/mar;own;unskilled resident;(18,30];good
+domestic appliance;1275;female div/dep/mar;rent;skilled;(18,30];bad
+furniture/equipment;4169;male single;own;skilled;(18,30];good
+furniture/equipment;1521;male div/sep;own;unskilled resident;(30,40];good
+education;5743;female div/dep/mar;for free;skilled;(18,30];good
+furniture/equipment;3599;female div/dep/mar;rent;unskilled resident;(18,30];good
+radio/tv;3213;male mar/wid;rent;skilled;(18,30];good
+business;4439;male single;own;high qualif/self emp/mgmt;(30,40];good
+new car;3949;male single;own;unskilled resident;(30,40];good
+radio/tv;1459;female div/dep/mar;own;unskilled resident;(40,50];good
+radio/tv;882;male single;own;skilled;(18,30];good
+radio/tv;3758;female div/dep/mar;rent;unemp/unskilled non res;(18,30];good
+business;1743;male single;own;unskilled resident;(30,40];good
+education;1136;male single;for free;skilled;(30,40];bad
+domestic appliance;1236;female div/dep/mar;rent;skilled;(18,30];good
+furniture/equipment;959;female div/dep/mar;own;skilled;(18,30];bad
+used car;3229;male single;own;high qualif/self emp/mgmt;(30,40];good
+radio/tv;6199;male single;rent;skilled;(18,30];bad
+education;727;male single;for free;skilled;(40,50];good
+new car;1246;male single;own;unskilled resident;(18,30];bad
+radio/tv;2331;male single;own;skilled;(40,50];good
+radio/tv;4463;male single;own;high qualif/self emp/mgmt;(18,30];bad
+radio/tv;776;male mar/wid;own;skilled;(18,30];good
+furniture/equipment;2406;female div/dep/mar;rent;skilled;(18,30];bad
+education;1239;male single;for free;skilled;(60,70];good
+radio/tv;3399;male single;own;high qualif/self emp/mgmt;(30,40];good
+new car;2247;female div/dep/mar;own;skilled;(30,40];good
+furniture/equipment;1766;male mar/wid;rent;skilled;(18,30];good
+furniture/equipment;2473;male single;own;unemp/unskilled non res;(18,30];bad
+business;1542;male single;own;skilled;(30,40];good
+used car;3850;male single;own;skilled;(18,30];good
+furniture/equipment;3650;female div/dep/mar;rent;skilled;(18,30];good
+furniture/equipment;3446;male single;own;skilled;(40,50];bad
+furniture/equipment;3001;female div/dep/mar;rent;skilled;(30,40];good
+new car;3079;male single;own;skilled;(30,40];good
+radio/tv;6070;male single;own;skilled;(30,40];good
+furniture/equipment;2146;female div/dep/mar;rent;skilled;(18,30];good
+new car;13756;male single;for free;high qualif/self emp/mgmt;(60,70];good
+other;14782;female div/dep/mar;for free;high qualif/self emp/mgmt;(50,60];bad
+business;7685;female div/dep/mar;rent;skilled;(30,40];bad
+radio/tv;2320;male mar/wid;own;skilled;(30,40];good
+radio/tv;846;male single;for free;skilled;(30,40];good
+new car;14318;male single;for free;high qualif/self emp/mgmt;(50,60];bad
+new car;362;female div/dep/mar;own;unskilled resident;(50,60];good
+furniture/equipment;2212;male single;own;skilled;(30,40];good
+used car;12976;female div/dep/mar;for free;high qualif/self emp/mgmt;(30,40];bad
+new car;1283;female div/dep/mar;rent;skilled;(18,30];good
+new car;1330;male single;own;skilled;(18,30];good
+business;4272;male single;own;unskilled resident;(18,30];good
+radio/tv;2238;female div/dep/mar;own;skilled;(18,30];good
+radio/tv;1126;female div/dep/mar;rent;skilled;(18,30];good
+furniture/equipment;7374;male single;own;high qualif/self emp/mgmt;(30,40];good
+business;2326;male single;own;skilled;(18,30];good
+business;1449;female div/dep/mar;own;skilled;(18,30];good
+new car;1820;male mar/wid;own;high qualif/self emp/mgmt;(18,30];good
+furniture/equipment;983;female div/dep/mar;rent;unskilled resident;(18,30];good
+new car;3249;male single;for free;high qualif/self emp/mgmt;(30,40];good
+radio/tv;1957;female div/dep/mar;own;skilled;(30,40];good
+furniture/equipment;2406;male single;own;high qualif/self emp/mgmt;(30,40];good
+education;11760;male single;rent;skilled;(30,40];good
+furniture/equipment;2578;female div/dep/mar;for free;high qualif/self emp/mgmt;(50,60];good
+furniture/equipment;2348;male mar/wid;own;skilled;(40,50];good
+new car;1223;male div/sep;rent;skilled;(40,50];bad
+radio/tv;1516;female div/dep/mar;own;unskilled resident;(40,50];good
+radio/tv;1473;male mar/wid;own;skilled;(30,40];good
+business;1887;male mar/wid;own;skilled;(18,30];good
+business;8648;male single;own;skilled;(18,30];bad
+new car;802;male single;own;unskilled resident;(18,30];good
+new car;2899;male single;own;skilled;(40,50];good
+radio/tv;2039;male mar/wid;own;skilled;(18,30];bad
+used car;2197;male single;own;skilled;(40,50];good
+radio/tv;1053;male mar/wid;own;skilled;(18,30];good
+radio/tv;3235;male div/sep;own;high qualif/self emp/mgmt;(18,30];good
+new car;939;male mar/wid;own;skilled;(18,30];bad
+radio/tv;1967;female div/dep/mar;own;skilled;(18,30];good
+used car;7253;male single;own;high qualif/self emp/mgmt;(30,40];good
+business;2292;male single;own;high qualif/self emp/mgmt;(40,50];bad
+new car;1597;male single;rent;unskilled resident;(30,40];good
+new car;1381;female div/dep/mar;own;skilled;(30,40];bad
+used car;5842;male single;own;skilled;(30,40];good
+new car;2579;male single;own;unskilled resident;(30,40];bad
+education;8471;female div/dep/mar;rent;skilled;(18,30];good
+new car;2782;female div/dep/mar;own;high qualif/self emp/mgmt;(30,40];good
+new car;1042;female div/dep/mar;own;skilled;(30,40];bad
+new car;3186;female div/dep/mar;rent;skilled;(18,30];good
+used car;2028;male single;own;skilled;(18,30];good
+new car;958;male single;own;unskilled resident;(40,50];good
+furniture/equipment;1591;male single;own;high qualif/self emp/mgmt;(30,40];good
+furniture/equipment;2762;female div/dep/mar;own;skilled;(18,30];bad
+used car;2779;male mar/wid;rent;skilled;(18,30];good
+radio/tv;2743;male single;own;skilled;(18,30];good
+radio/tv;1149;male single;own;skilled;(40,50];good
+furniture/equipment;1313;male single;own;skilled;(18,30];good
+repairs;1190;female div/dep/mar;for free;unemp/unskilled non res;(50,60];bad
+business;3448;male single;own;unskilled resident;(70,80];good
+other;11328;male single;own;high qualif/self emp/mgmt;(18,30];bad
+furniture/equipment;1872;male single;for free;high qualif/self emp/mgmt;(30,40];good
+repairs;2058;male div/sep;own;skilled;(30,40];good
+furniture/equipment;2136;male single;own;skilled;(18,30];good
+radio/tv;1484;male mar/wid;own;skilled;(18,30];bad
+repairs;660;male mar/wid;rent;unskilled resident;(18,30];good
+new car;1287;female div/dep/mar;own;skilled;(30,40];good
+repairs;3394;male single;own;unemp/unskilled non res;(60,70];good
+business;609;female div/dep/mar;own;unemp/unskilled non res;(18,30];bad
+new car;1884;male single;own;high qualif/self emp/mgmt;(30,40];good
+furniture/equipment;1620;female div/dep/mar;own;skilled;(18,30];good
+other;2629;male single;own;skilled;(18,30];good
+education;719;male single;own;unskilled resident;(40,50];bad
+furniture/equipment;5096;female div/dep/mar;own;high qualif/self emp/mgmt;(18,30];bad
+education;1244;female div/dep/mar;rent;unskilled resident;(40,50];good
+new car;1842;female div/dep/mar;own;skilled;(30,40];bad
+radio/tv;2576;male single;own;skilled;(30,40];good
+furniture/equipment;1424;female div/dep/mar;own;high qualif/self emp/mgmt;(50,60];good
+repairs;1512;male mar/wid;own;skilled;(60,70];bad
+used car;11054;male single;own;high qualif/self emp/mgmt;(18,30];good
+radio/tv;518;female div/dep/mar;own;skilled;(18,30];good
+furniture/equipment;2759;male single;own;skilled;(30,40];good
+used car;2670;male single;own;high qualif/self emp/mgmt;(30,40];good
+new car;4817;male single;own;skilled;(30,40];bad
+used car;2679;female div/dep/mar;own;high qualif/self emp/mgmt;(18,30];good
+new car;3905;male single;rent;skilled;(30,40];good
+used car;3386;male single;for free;skilled;(30,40];bad
+domestic appliance;343;female div/dep/mar;own;skilled;(18,30];good
+radio/tv;4594;male single;own;skilled;(30,40];good
+furniture/equipment;3620;male single;own;skilled;(30,40];good
+new car;1721;male single;own;skilled;(30,40];good
+furniture/equipment;3017;female div/dep/mar;rent;high qualif/self emp/mgmt;(30,40];good
+retraining;754;male single;own;skilled;(30,40];good
+business;1950;male single;own;skilled;(30,40];good
+used car;2924;male single;own;skilled;(60,70];good
+radio/tv;1659;female div/dep/mar;rent;unskilled resident;(18,30];bad
+radio/tv;7238;male single;own;skilled;(30,40];good
+business;2764;female div/dep/mar;own;skilled;(18,30];good
+used car;4679;male single;own;unskilled resident;(30,40];good
+radio/tv;3092;male mar/wid;rent;skilled;(18,30];bad
+education;448;female div/dep/mar;own;skilled;(18,30];bad
+new car;654;male single;own;unskilled resident;(18,30];bad
+retraining;1238;male single;own;high qualif/self emp/mgmt;(30,40];good
+radio/tv;1245;male mar/wid;own;skilled;(30,40];bad
+furniture/equipment;3114;female div/dep/mar;rent;skilled;(18,30];bad
+used car;2569;male single;own;skilled;(18,30];good
+radio/tv;5152;male single;own;skilled;(18,30];good
+business;1037;male single;own;unskilled resident;(30,40];good
+furniture/equipment;1478;male single;own;skilled;(40,50];good
+radio/tv;3573;female div/dep/mar;own;unskilled resident;(18,30];good
+new car;1201;male single;own;skilled;(18,30];good
+furniture/equipment;3622;female div/dep/mar;rent;skilled;(50,60];good
+furniture/equipment;960;female div/dep/mar;own;skilled;(18,30];good
+new car;1163;male single;own;skilled;(40,50];good
+new car;1209;male single;own;high qualif/self emp/mgmt;(40,50];bad
+radio/tv;3077;male single;own;skilled;(50,60];good
+new car;3757;female div/dep/mar;for free;skilled;(60,70];good
+new car;1418;male single;rent;unskilled resident;(30,40];good
+new car;3518;male single;rent;skilled;(18,30];good
+radio/tv;1934;male single;own;skilled;(18,30];good
+business;8318;female div/dep/mar;for free;high qualif/self emp/mgmt;(40,50];bad
+radio/tv;1237;female div/dep/mar;own;skilled;(18,30];good
+radio/tv;368;male single;own;skilled;(30,40];good
+new car;2122;male single;rent;unskilled resident;(30,40];good
+furniture/equipment;2996;male mar/wid;own;skilled;(18,30];bad
+furniture/equipment;9034;male single;rent;high qualif/self emp/mgmt;(18,30];bad
+furniture/equipment;1585;male single;own;skilled;(30,40];good
+radio/tv;1301;male mar/wid;own;unskilled resident;(30,40];good
+new car;1323;male div/sep;own;skilled;(18,30];good
+new car;3123;female div/dep/mar;own;skilled;(18,30];bad
+used car;5493;male single;for free;skilled;(40,50];good
+radio/tv;1126;male div/sep;own;skilled;(40,50];good
+radio/tv;1216;male single;own;skilled;(30,40];bad
+new car;1207;female div/dep/mar;rent;skilled;(18,30];bad
+new car;1309;male single;own;unskilled resident;(18,30];bad
+used car;2360;male single;own;skilled;(30,40];good
+new car;6850;male single;own;high qualif/self emp/mgmt;(30,40];bad
+radio/tv;1413;male mar/wid;own;skilled;(18,30];good
+used car;8588;male single;own;high qualif/self emp/mgmt;(40,50];good
+new car;759;male single;own;skilled;(18,30];bad
+used car;4686;male single;for free;high qualif/self emp/mgmt;(30,40];good
+business;2687;male single;rent;skilled;(18,30];good
+radio/tv;585;male mar/wid;rent;skilled;(18,30];good
+new car;2255;male single;own;skilled;(50,60];good
+new car;609;female div/dep/mar;own;skilled;(30,40];good
+new car;1361;male single;own;unskilled resident;(30,40];good
+furniture/equipment;7127;female div/dep/mar;rent;skilled;(18,30];bad
+new car;1203;male single;own;skilled;(40,50];good
+radio/tv;700;male single;for free;skilled;(30,40];good
+repairs;5507;male single;for free;skilled;(40,50];good
+radio/tv;3190;female div/dep/mar;own;skilled;(18,30];bad
+furniture/equipment;7119;male single;for free;skilled;(50,60];bad
+used car;3488;female div/dep/mar;own;skilled;(18,30];good
+radio/tv;1113;female div/dep/mar;own;unskilled resident;(18,30];good
+used car;7966;male single;own;skilled;(18,30];good
+education;1532;female div/dep/mar;own;skilled;(30,40];good
+radio/tv;1503;male single;own;unskilled resident;(40,50];good
+radio/tv;2302;male div/sep;rent;skilled;(30,40];bad
+new car;662;male single;own;unskilled resident;(40,50];good
+education;2273;male single;own;skilled;(30,40];good
+new car;2631;female div/dep/mar;rent;skilled;(18,30];bad
+used car;1503;male mar/wid;rent;skilled;(40,50];good
+radio/tv;1311;male mar/wid;own;skilled;(18,30];good
+radio/tv;3105;male single;own;skilled;(18,30];good
+education;2319;male div/sep;rent;skilled;(30,40];bad
+new car;1374;female div/dep/mar;own;high qualif/self emp/mgmt;(70,80];good
+furniture/equipment;3612;female div/dep/mar;own;skilled;(30,40];good
+new car;7763;male single;for free;high qualif/self emp/mgmt;(40,50];bad
+furniture/equipment;3049;female div/dep/mar;own;unskilled resident;(40,50];good
+radio/tv;1534;male mar/wid;rent;skilled;(18,30];bad
+new car;2032;male single;for free;skilled;(50,60];good
+furniture/equipment;6350;male single;own;skilled;(30,40];bad
+furniture/equipment;2864;male single;own;unskilled resident;(30,40];bad
+new car;1255;male single;own;unskilled resident;(60,70];good
+new car;1333;male single;for free;skilled;(40,50];bad
+new car;2022;female div/dep/mar;own;skilled;(30,40];good
+radio/tv;1552;male single;own;skilled;(30,40];good
+radio/tv;626;female div/dep/mar;own;unskilled resident;(18,30];bad
+used car;8858;male single;for free;skilled;(30,40];good
+repairs;996;female div/dep/mar;own;skilled;(18,30];good
+radio/tv;1750;male single;own;unskilled resident;(40,50];good
+radio/tv;6999;male mar/wid;own;skilled;(30,40];bad
+new car;1995;male single;own;skilled;(18,30];good
+education;1199;female div/dep/mar;own;high qualif/self emp/mgmt;(60,70];good
+radio/tv;1331;male single;own;skilled;(18,30];bad
+new car;2278;female div/dep/mar;own;skilled;(18,30];bad
+new car;5003;female div/dep/mar;own;skilled;(18,30];bad
+furniture/equipment;3552;male single;own;skilled;(18,30];bad
+furniture/equipment;1928;male single;own;unskilled resident;(30,40];bad
+used car;2964;male single;for free;skilled;(40,50];good
+radio/tv;1546;male single;rent;unskilled resident;(18,30];bad
+radio/tv;683;female div/dep/mar;own;skilled;(18,30];good
+new car;12389;male single;for free;skilled;(30,40];bad
+business;4712;male single;own;high qualif/self emp/mgmt;(30,40];good
+radio/tv;1553;female div/dep/mar;rent;skilled;(18,30];good
+new car;1372;male div/sep;own;skilled;(30,40];bad
+radio/tv;2578;male single;own;skilled;(30,40];good
+radio/tv;3979;male single;own;skilled;(40,50];good
+radio/tv;6758;female div/dep/mar;own;skilled;(30,40];bad
+furniture/equipment;3234;female div/dep/mar;rent;unskilled resident;(18,30];bad
+radio/tv;5954;male single;own;skilled;(30,40];good
+used car;5433;female div/dep/mar;rent;high qualif/self emp/mgmt;(18,30];good
+business;806;female div/dep/mar;own;unskilled resident;(18,30];good
+radio/tv;1082;male single;own;unskilled resident;(18,30];good
+furniture/equipment;2788;female div/dep/mar;own;skilled;(18,30];good
+radio/tv;2930;female div/dep/mar;own;skilled;(18,30];good
+education;1927;female div/dep/mar;own;skilled;(30,40];good
+new car;2820;male div/sep;own;skilled;(18,30];bad
+retraining;937;male mar/wid;own;unskilled resident;(18,30];good
+new car;1056;male single;own;skilled;(18,30];bad
+new car;3124;male single;own;unskilled resident;(40,50];good
+furniture/equipment;1388;female div/dep/mar;rent;skilled;(18,30];good
+repairs;2384;male single;rent;unskilled resident;(30,40];bad
+new car;2133;female div/dep/mar;for free;high qualif/self emp/mgmt;(50,60];good
+furniture/equipment;2039;female div/dep/mar;rent;skilled;(18,30];bad
+new car;2799;male single;rent;skilled;(30,40];good
+furniture/equipment;1289;male single;own;unskilled resident;(18,30];good
+domestic appliance;1217;male mar/wid;own;unskilled resident;(40,50];bad
+furniture/equipment;2246;male single;own;skilled;(50,60];bad
+radio/tv;385;female div/dep/mar;own;unskilled resident;(50,60];good
+new car;1965;female div/dep/mar;rent;skilled;(40,50];good
+business;1572;female div/dep/mar;own;unskilled resident;(30,40];good
+new car;2718;female div/dep/mar;rent;unskilled resident;(18,30];bad
+other;1358;male single;own;high qualif/self emp/mgmt;(30,40];bad
+new car;931;female div/dep/mar;own;unskilled resident;(30,40];bad
+new car;1442;female div/dep/mar;rent;skilled;(18,30];bad
+business;4241;male single;own;unskilled resident;(30,40];bad
+new car;2775;male single;own;skilled;(30,40];bad
+business;3863;male single;for free;skilled;(30,40];good
+radio/tv;2329;female div/dep/mar;own;skilled;(40,50];good
+furniture/equipment;918;female div/dep/mar;own;skilled;(18,30];bad
+education;1837;female div/dep/mar;for free;unskilled resident;(30,40];bad
+furniture/equipment;3349;female div/dep/mar;own;high qualif/self emp/mgmt;(18,30];bad
+furniture/equipment;1275;female div/dep/mar;own;skilled;(18,30];good
+furniture/equipment;2828;male single;own;skilled;(18,30];good
+business;4526;male single;own;high qualif/self emp/mgmt;(70,80];good
+radio/tv;2671;female div/dep/mar;for free;skilled;(40,50];bad
+radio/tv;2051;male single;own;skilled;(30,40];good
+used car;1300;male single;for free;skilled;(40,50];good
+domestic appliance;741;female div/dep/mar;own;skilled;(18,30];bad
+new car;1240;female div/dep/mar;for free;unskilled resident;(40,50];bad
+radio/tv;3357;female div/dep/mar;own;skilled;(18,30];good
+used car;3632;female div/dep/mar;rent;skilled;(18,30];good
+furniture/equipment;1808;female div/dep/mar;own;skilled;(18,30];bad
+business;12204;male single;own;high qualif/self emp/mgmt;(40,50];good
+radio/tv;9157;male single;for free;high qualif/self emp/mgmt;(18,30];good
+new car;3676;male single;rent;skilled;(30,40];good
+furniture/equipment;3441;female div/dep/mar;rent;skilled;(18,30];bad
+new car;640;male div/sep;own;unskilled resident;(40,50];good
+business;3652;male single;own;skilled;(18,30];good
+new car;1530;male single;own;skilled;(30,40];bad
+business;3914;male div/sep;own;skilled;(30,40];bad
+furniture/equipment;1858;female div/dep/mar;rent;skilled;(18,30];good
+radio/tv;2600;male single;for free;skilled;(60,70];bad
+radio/tv;1979;male single;own;skilled;(30,40];good
+furniture/equipment;2116;male single;own;skilled;(40,50];good
+new car;1437;male single;own;skilled;(18,30];bad
+furniture/equipment;4042;male single;own;skilled;(30,40];good
+education;3832;male single;own;unskilled resident;(60,70];good
+radio/tv;3660;female div/dep/mar;own;skilled;(18,30];good
+furniture/equipment;1553;male single;own;skilled;(40,50];bad
+radio/tv;1444;male single;own;skilled;(18,30];good
+furniture/equipment;1980;female div/dep/mar;rent;skilled;(18,30];bad
+new car;1355;female div/dep/mar;own;unskilled resident;(18,30];bad
+education;1393;male single;own;skilled;(40,50];good
+radio/tv;1376;female div/dep/mar;own;skilled;(18,30];good
+radio/tv;15653;male single;own;skilled;(18,30];good
+radio/tv;1493;female div/dep/mar;own;skilled;(30,40];good
+radio/tv;4370;male single;own;skilled;(18,30];bad
+education;750;female div/dep/mar;own;unemp/unskilled non res;(18,30];bad
+repairs;1308;male single;own;unskilled resident;(30,40];good
+education;4623;male single;own;high qualif/self emp/mgmt;(30,40];bad
+radio/tv;1851;male mar/wid;own;skilled;(30,40];good
+radio/tv;1880;male mar/wid;own;high qualif/self emp/mgmt;(30,40];good
+business;7980;male single;rent;skilled;(18,30];bad
+furniture/equipment;4583;male div/sep;own;skilled;(30,40];good
+new car;1386;female div/dep/mar;own;skilled;(18,30];bad
+new car;947;male single;for free;skilled;(30,40];bad
+education;684;male single;rent;unskilled resident;(30,40];bad
+education;7476;male single;for free;high qualif/self emp/mgmt;(40,50];good
+furniture/equipment;1922;male single;own;unskilled resident;(30,40];bad
+new car;2303;male single;own;skilled;(40,50];bad
+new car;8086;male single;own;high qualif/self emp/mgmt;(40,50];bad
+used car;2346;male single;own;skilled;(30,40];good
+new car;3973;male single;for free;skilled;(18,30];good
+new car;888;male single;own;unskilled resident;(40,50];bad
+radio/tv;10222;male single;own;skilled;(30,40];good
+business;4221;female div/dep/mar;own;skilled;(18,30];good
+furniture/equipment;6361;male single;own;skilled;(40,50];good
+radio/tv;1297;male mar/wid;rent;skilled;(18,30];good
+new car;900;male mar/wid;own;skilled;(18,30];bad
+furniture/equipment;2241;male single;own;skilled;(40,50];good
+furniture/equipment;1050;male single;own;high qualif/self emp/mgmt;(30,40];good
+education;1047;female div/dep/mar;own;unskilled resident;(40,50];good
+other;6314;male single;own;high qualif/self emp/mgmt;(18,30];good
+furniture/equipment;3496;male single;own;skilled;(30,40];good
+business;3609;female div/dep/mar;own;skilled;(18,30];good
+new car;4843;male single;rent;skilled;(40,50];bad
+radio/tv;3017;male single;own;skilled;(40,50];good
+business;4139;male single;own;unskilled resident;(18,30];good
+business;5742;male single;own;skilled;(30,40];good
+new car;10366;male single;own;high qualif/self emp/mgmt;(40,50];good
+new car;2080;male mar/wid;own;skilled;(18,30];good
+business;2580;male single;own;unskilled resident;(40,50];bad
+radio/tv;4530;female div/dep/mar;rent;high qualif/self emp/mgmt;(18,30];good
+furniture/equipment;5150;male single;own;skilled;(30,40];good
+radio/tv;5595;male mar/wid;own;skilled;(18,30];bad
+radio/tv;2384;male single;rent;unskilled resident;(60,70];good
+radio/tv;1453;female div/dep/mar;own;skilled;(18,30];good
+education;1538;female div/dep/mar;own;skilled;(50,60];good
+radio/tv;2279;male single;for free;skilled;(30,40];good
+radio/tv;1478;male mar/wid;own;skilled;(30,40];good
+radio/tv;5103;male mar/wid;for free;skilled;(40,50];good
+business;9857;male single;own;unskilled resident;(30,40];good
+new car;6527;male single;for free;skilled;(30,40];good
+radio/tv;1347;male single;own;skilled;(18,30];good
+new car;2862;male single;for free;skilled;(18,30];good
+radio/tv;2753;male single;own;skilled;(30,40];good
+new car;3651;male single;own;skilled;(30,40];good
+furniture/equipment;975;male div/sep;own;skilled;(18,30];good
+repairs;2631;female div/dep/mar;own;unskilled resident;(18,30];good
+radio/tv;2896;male single;own;skilled;(18,30];good
+new car;4716;male single;own;unskilled resident;(40,50];good
+radio/tv;2284;male single;own;skilled;(18,30];good
+used car;1236;male single;rent;skilled;(40,50];good
+radio/tv;1103;male single;own;skilled;(18,30];good
+new car;926;female div/dep/mar;own;unemp/unskilled non res;(30,40];good
+radio/tv;1800;male single;own;skilled;(18,30];good
+education;1905;male single;rent;high qualif/self emp/mgmt;(30,40];good
+furniture/equipment;1123;female div/dep/mar;rent;unskilled resident;(18,30];bad
+used car;6331;male single;for free;skilled;(40,50];bad
+radio/tv;1377;female div/dep/mar;for free;skilled;(40,50];good
+business;2503;male single;own;skilled;(40,50];good
+business;2528;female div/dep/mar;own;skilled;(30,40];good
+new car;5324;female div/dep/mar;for free;skilled;(30,40];good
+new car;6560;male single;own;skilled;(18,30];bad
+furniture/equipment;2969;female div/dep/mar;rent;skilled;(18,30];bad
+radio/tv;1206;female div/dep/mar;own;skilled;(18,30];good
+radio/tv;2118;male single;own;unskilled resident;(30,40];good
+radio/tv;629;male single;own;high qualif/self emp/mgmt;(30,40];good
+education;1198;female div/dep/mar;for free;skilled;(30,40];bad
+used car;2476;male single;own;high qualif/self emp/mgmt;(40,50];good
+radio/tv;1138;male single;own;unskilled resident;(18,30];good
+new car;14027;male single;own;high qualif/self emp/mgmt;(18,30];bad
+used car;7596;male single;own;skilled;(60,70];good
+radio/tv;3077;male single;own;skilled;(30,40];good
+radio/tv;1505;male single;for free;high qualif/self emp/mgmt;(30,40];good
+radio/tv;3148;male single;own;skilled;(30,40];good
+used car;6148;male mar/wid;own;skilled;(30,40];good
+radio/tv;1337;male single;own;high qualif/self emp/mgmt;(30,40];bad
+education;433;female div/dep/mar;rent;skilled;(18,30];bad
+new car;1228;female div/dep/mar;own;unskilled resident;(18,30];bad
+radio/tv;790;female div/dep/mar;own;unskilled resident;(60,70];good
+new car;2570;female div/dep/mar;rent;skilled;(18,30];bad
+new car;250;female div/dep/mar;own;unskilled resident;(40,50];good
+radio/tv;1316;male mar/wid;own;unskilled resident;(40,50];good
+radio/tv;1882;female div/dep/mar;rent;skilled;(18,30];bad
+business;6416;female div/dep/mar;rent;skilled;(50,60];bad
+business;1275;male div/sep;own;skilled;(30,40];good
+radio/tv;6403;male single;own;skilled;(30,40];good
+radio/tv;1987;male single;rent;unskilled resident;(18,30];bad
+radio/tv;760;female div/dep/mar;own;unskilled resident;(40,50];good
+used car;2603;female div/dep/mar;rent;skilled;(18,30];good
+new car;3380;female div/dep/mar;own;skilled;(30,40];good
+domestic appliance;3990;female div/dep/mar;own;unemp/unskilled non res;(18,30];good
+used car;11560;female div/dep/mar;rent;high qualif/self emp/mgmt;(18,30];bad
+new car;4380;male single;own;unskilled resident;(30,40];good
+new car;6761;male single;own;high qualif/self emp/mgmt;(40,50];good
+business;4280;female div/dep/mar;rent;unskilled resident;(18,30];bad
+new car;2325;male single;own;skilled;(30,40];good
+radio/tv;1048;male single;own;unskilled resident;(18,30];good
+radio/tv;3160;male single;own;skilled;(40,50];good
+furniture/equipment;2483;male single;own;skilled;(18,30];good
+furniture/equipment;14179;male single;own;high qualif/self emp/mgmt;(18,30];good
+business;1797;male single;own;unskilled resident;(18,30];good
+new car;2511;female div/dep/mar;rent;skilled;(18,30];good
+new car;1274;female div/dep/mar;own;unskilled resident;(30,40];bad
+used car;5248;male single;own;skilled;(18,30];good
+used car;3029;male single;own;skilled;(30,40];good
+furniture/equipment;428;female div/dep/mar;own;skilled;(40,50];good
+new car;976;female div/dep/mar;own;unskilled resident;(18,30];bad
+business;841;female div/dep/mar;rent;unskilled resident;(18,30];good
+radio/tv;5771;female div/dep/mar;own;skilled;(18,30];good
+repairs;1555;male single;for free;skilled;(50,60];bad
+new car;1285;female div/dep/mar;rent;skilled;(30,40];bad
+new car;1299;male single;own;unemp/unskilled non res;(70,80];good
+radio/tv;1271;male single;for free;skilled;(30,40];bad
+new car;1393;male single;own;skilled;(30,40];good
+new car;691;male single;own;skilled;(30,40];bad
+new car;5045;female div/dep/mar;own;skilled;(50,60];good
+furniture/equipment;2124;female div/dep/mar;rent;skilled;(18,30];bad
+radio/tv;2214;male single;own;unskilled resident;(18,30];good
+new car;12680;male single;for free;high qualif/self emp/mgmt;(18,30];bad
+new car;2463;male mar/wid;own;skilled;(18,30];good
+radio/tv;1155;male mar/wid;own;unskilled resident;(30,40];good
+furniture/equipment;3108;male div/sep;own;unskilled resident;(30,40];bad
+used car;2901;female div/dep/mar;rent;skilled;(30,40];good
+furniture/equipment;3617;male single;rent;skilled;(18,30];good
+radio/tv;1655;male single;own;unskilled resident;(60,70];good
+used car;2812;female div/dep/mar;rent;skilled;(18,30];good
+education;8065;female div/dep/mar;own;high qualif/self emp/mgmt;(18,30];bad
+used car;3275;male single;own;high qualif/self emp/mgmt;(30,40];good
+radio/tv;2223;male single;own;skilled;(50,60];good
+new car;1480;male single;for free;unemp/unskilled non res;(60,70];good
+new car;1371;female div/dep/mar;rent;skilled;(18,30];bad
+new car;3535;male single;own;skilled;(30,40];good
+radio/tv;3509;female div/dep/mar;own;skilled;(18,30];good
+used car;5711;male single;own;high qualif/self emp/mgmt;(30,40];good
+repairs;3872;female div/dep/mar;own;skilled;(60,70];good
+radio/tv;4933;male single;own;skilled;(18,30];bad
+new car;1940;male single;own;skilled;(50,60];good
+retraining;1410;male single;own;unskilled resident;(30,40];good
+new car;836;female div/dep/mar;own;unskilled resident;(18,30];bad
+used car;6468;male div/sep;own;high qualif/self emp/mgmt;(50,60];good
+business;1941;male single;own;unskilled resident;(30,40];good
+radio/tv;2675;male single;own;skilled;(30,40];good
+used car;2751;male single;own;skilled;(30,40];good
+education;6224;male single;for free;skilled;(40,50];bad
+education;5998;male single;own;skilled;(18,30];bad
+business;1188;female div/dep/mar;own;skilled;(30,40];bad
+used car;6313;male single;own;high qualif/self emp/mgmt;(40,50];good
+furniture/equipment;1221;male mar/wid;own;skilled;(18,30];good
+furniture/equipment;2892;male div/sep;for free;skilled;(50,60];good
+furniture/equipment;3062;male single;rent;skilled;(30,40];good
+furniture/equipment;2301;female div/dep/mar;rent;skilled;(18,30];good
+used car;7511;male single;for free;skilled;(50,60];bad
+furniture/equipment;1258;female div/dep/mar;rent;unskilled resident;(18,30];good
+new car;717;male mar/wid;own;skilled;(50,60];good
+new car;1549;male single;own;unemp/unskilled non res;(30,40];good
+education;1597;male single;for free;skilled;(50,60];good
+radio/tv;1795;female div/dep/mar;rent;unskilled resident;(40,50];good
+furniture/equipment;4272;female div/dep/mar;own;skilled;(18,30];good
+radio/tv;976;male single;own;skilled;(30,40];good
+new car;7472;female div/dep/mar;rent;unemp/unskilled non res;(18,30];good
+new car;9271;male single;own;skilled;(18,30];bad
+radio/tv;590;male mar/wid;own;unskilled resident;(18,30];good
+radio/tv;930;male single;own;skilled;(60,70];good
+used car;9283;male single;for free;high qualif/self emp/mgmt;(50,60];good
+new car;1778;female div/dep/mar;rent;unemp/unskilled non res;(18,30];bad
+business;907;male mar/wid;own;skilled;(18,30];good
+radio/tv;484;male mar/wid;own;unskilled resident;(18,30];good
+used car;9629;male single;own;skilled;(18,30];bad
+domestic appliance;3051;male single;own;skilled;(50,60];bad
+new car;3931;male single;for free;skilled;(40,50];bad
+new car;7432;female div/dep/mar;rent;skilled;(50,60];good
+domestic appliance;1338;male div/sep;own;skilled;(60,70];good
+radio/tv;1554;female div/dep/mar;rent;skilled;(18,30];good
+other;15857;male div/sep;own;high qualif/self emp/mgmt;(40,50];good
+radio/tv;1345;male mar/wid;own;skilled;(18,30];bad
+new car;1101;male mar/wid;own;skilled;(18,30];good
+radio/tv;3016;male mar/wid;own;skilled;(18,30];good
+furniture/equipment;2712;male single;own;skilled;(40,50];bad
+new car;731;male single;own;unskilled resident;(40,50];good
+furniture/equipment;3780;male div/sep;own;high qualif/self emp/mgmt;(30,40];good
+new car;1602;male mar/wid;own;skilled;(18,30];good
+new car;3966;female div/dep/mar;rent;skilled;(30,40];bad
+business;4165;male single;own;skilled;(30,40];bad
+used car;8335;male single;for free;skilled;(40,50];bad
+business;6681;male single;for free;skilled;(30,40];good
+business;2375;male single;own;skilled;(40,50];good
+new car;1216;female div/dep/mar;rent;skilled;(18,30];bad
+business;11816;male single;rent;skilled;(18,30];bad
+radio/tv;5084;female div/dep/mar;own;skilled;(40,50];good
+radio/tv;2327;female div/dep/mar;own;unskilled resident;(18,30];bad
+new car;1082;male single;own;skilled;(40,50];bad
+radio/tv;886;female div/dep/mar;own;skilled;(18,30];good
+furniture/equipment;601;female div/dep/mar;rent;unskilled resident;(18,30];good
+used car;2957;male single;own;skilled;(60,70];good
+radio/tv;2611;male mar/wid;own;skilled;(40,50];good
+furniture/equipment;5179;male single;own;skilled;(18,30];bad
+used car;2993;male single;own;unskilled resident;(18,30];good
+repairs;1943;female div/dep/mar;own;skilled;(18,30];bad
+business;1559;male single;own;skilled;(40,50];good
+furniture/equipment;3422;male single;own;skilled;(40,50];good
+furniture/equipment;3976;male single;own;skilled;(30,40];good
+new car;6761;male single;rent;skilled;(60,70];bad
+new car;1249;male mar/wid;own;skilled;(18,30];good
+radio/tv;1364;male single;own;skilled;(50,60];good
+radio/tv;709;male single;own;unskilled resident;(50,60];bad
+new car;2235;male mar/wid;rent;skilled;(30,40];bad
+used car;4042;male single;own;skilled;(40,50];good
+radio/tv;1471;male single;for free;skilled;(30,40];good
+new car;1442;male single;for free;unskilled resident;(30,40];bad
+new car;10875;male single;own;skilled;(40,50];good
+new car;1474;male mar/wid;own;skilled;(30,40];good
+retraining;894;female div/dep/mar;own;skilled;(30,40];good
+furniture/equipment;3343;male single;for free;skilled;(18,30];good
+new car;3959;female div/dep/mar;own;skilled;(18,30];bad
+new car;3577;male single;rent;skilled;(18,30];good
+used car;5804;male single;own;skilled;(18,30];good
+business;2169;male mar/wid;own;skilled;(18,30];bad
+radio/tv;2439;female div/dep/mar;own;skilled;(30,40];bad
+furniture/equipment;4526;male single;own;unskilled resident;(30,40];good
+furniture/equipment;2210;male single;rent;unskilled resident;(18,30];bad
+furniture/equipment;2221;female div/dep/mar;rent;skilled;(18,30];good
+radio/tv;2389;female div/dep/mar;own;skilled;(18,30];good
+furniture/equipment;3331;male single;own;skilled;(40,50];good
+business;7409;male single;own;skilled;(30,40];good
+furniture/equipment;652;female div/dep/mar;rent;skilled;(18,30];good
+furniture/equipment;7678;female div/dep/mar;own;skilled;(30,40];good
+new car;1343;male single;own;skilled;(40,50];good
+business;1382;male single;own;skilled;(18,30];good
+domestic appliance;874;female div/dep/mar;own;skilled;(18,30];good
+furniture/equipment;3590;male single;own;unskilled resident;(18,30];good
+new car;1322;female div/dep/mar;own;skilled;(30,40];good
+radio/tv;1940;male single;for free;high qualif/self emp/mgmt;(30,40];good
+radio/tv;3595;male single;own;skilled;(18,30];good
+new car;1422;male single;for free;high qualif/self emp/mgmt;(18,30];bad
+radio/tv;6742;male single;own;skilled;(30,40];good
+used car;7814;male single;own;high qualif/self emp/mgmt;(30,40];good
+used car;9277;male div/sep;for free;skilled;(40,50];good
+new car;2181;male single;own;skilled;(30,40];good
+radio/tv;1098;female div/dep/mar;own;unemp/unskilled non res;(60,70];good
+furniture/equipment;4057;male div/sep;own;skilled;(40,50];bad
+education;795;female div/dep/mar;own;skilled;(50,60];bad
+business;2825;male single;own;skilled;(30,40];good
+business;15672;male single;own;skilled;(18,30];bad
+new car;6614;male single;own;high qualif/self emp/mgmt;(30,40];good
+used car;7824;male single;rent;skilled;(30,40];good
+business;2442;male single;own;high qualif/self emp/mgmt;(40,50];good
+radio/tv;1829;male single;own;skilled;(40,50];good
+new car;2171;male single;own;unskilled resident;(30,40];good
+used car;5800;male single;own;skilled;(30,40];good
+radio/tv;1169;male single;own;skilled;(18,30];good
+used car;8947;male single;own;high qualif/self emp/mgmt;(30,40];good
+radio/tv;2606;female div/dep/mar;rent;high qualif/self emp/mgmt;(18,30];good
+furniture/equipment;1592;female div/dep/mar;own;skilled;(30,40];good
+furniture/equipment;2186;female div/dep/mar;rent;unskilled resident;(30,40];good
+furniture/equipment;4153;male single;own;skilled;(40,50];bad
+new car;2625;male single;rent;skilled;(40,50];bad
+new car;3485;male div/sep;own;skilled;(40,50];good
+used car;10477;male single;for free;skilled;(40,50];good
+radio/tv;1386;male mar/wid;rent;skilled;(30,40];good
+radio/tv;1278;male single;own;high qualif/self emp/mgmt;(30,40];good
+radio/tv;1107;male single;rent;high qualif/self emp/mgmt;(18,30];good
+new car;3763;male single;own;unskilled resident;(18,30];good
+education;3711;male mar/wid;own;skilled;(18,30];good
+used car;3594;female div/dep/mar;own;unskilled resident;(40,50];good
+new car;3195;female div/dep/mar;own;unskilled resident;(30,40];good
+radio/tv;4454;female div/dep/mar;own;skilled;(30,40];good
+furniture/equipment;4736;female div/dep/mar;own;unskilled resident;(18,30];bad
+radio/tv;2991;female div/dep/mar;own;skilled;(18,30];good
+business;2142;male div/sep;own;skilled;(18,30];good
+business;3161;male single;rent;skilled;(30,40];bad
+other;18424;female div/dep/mar;own;high qualif/self emp/mgmt;(30,40];bad
+used car;2848;male single;own;skilled;(30,40];good
+new car;14896;male single;own;high qualif/self emp/mgmt;(60,70];bad
+furniture/equipment;2359;male div/sep;own;skilled;(30,40];bad
+furniture/equipment;3345;male single;rent;high qualif/self emp/mgmt;(30,40];bad
+furniture/equipment;1817;female div/dep/mar;own;skilled;(18,30];good
+radio/tv;12749;male single;own;high qualif/self emp/mgmt;(30,40];good
+radio/tv;1366;female div/dep/mar;rent;skilled;(18,30];bad
+new car;2002;male single;rent;skilled;(18,30];good
+furniture/equipment;6872;male div/sep;own;skilled;(50,60];bad
+new car;697;male single;own;skilled;(40,50];bad
+furniture/equipment;1049;female div/dep/mar;rent;skilled;(18,30];good
+used car;10297;male single;for free;skilled;(30,40];bad
+radio/tv;1867;male single;own;skilled;(50,60];good
+new car;1344;male single;own;unskilled resident;(40,50];good
+furniture/equipment;1747;male single;own;unskilled resident;(18,30];good
+radio/tv;1670;female div/dep/mar;own;skilled;(18,30];bad
+new car;1224;male single;own;skilled;(18,30];good
+radio/tv;522;male single;own;skilled;(40,50];good
+radio/tv;1498;female div/dep/mar;own;skilled;(18,30];good
+radio/tv;1919;male single;own;high qualif/self emp/mgmt;(18,30];bad
+radio/tv;745;female div/dep/mar;own;unskilled resident;(18,30];bad
+radio/tv;2063;male mar/wid;rent;high qualif/self emp/mgmt;(18,30];good
+education;6288;male single;for free;skilled;(40,50];bad
+used car;6842;male single;own;high qualif/self emp/mgmt;(40,50];good
+new car;3527;male single;own;high qualif/self emp/mgmt;(40,50];good
+new car;1546;male single;own;unskilled resident;(30,40];good
+furniture/equipment;929;male single;own;skilled;(30,40];good
+new car;1455;male single;own;unskilled resident;(40,50];good
+furniture/equipment;1845;female div/dep/mar;rent;skilled;(40,50];good
+new car;8358;female div/dep/mar;own;skilled;(18,30];good
+furniture/equipment;3349;male single;for free;skilled;(18,30];bad
+new car;2859;male single;own;high qualif/self emp/mgmt;(30,40];good
+furniture/equipment;1533;male mar/wid;own;unskilled resident;(40,50];bad
+radio/tv;3621;male single;own;skilled;(30,40];bad
+business;3590;male mar/wid;own;unemp/unskilled non res;(30,40];good
+business;2145;male single;own;skilled;(18,30];bad
+used car;4113;female div/dep/mar;rent;skilled;(18,30];bad
+furniture/equipment;10974;female div/dep/mar;own;high qualif/self emp/mgmt;(18,30];bad
+new car;1893;female div/dep/mar;own;skilled;(18,30];good
+radio/tv;1231;female div/dep/mar;rent;high qualif/self emp/mgmt;(50,60];good
+radio/tv;3656;male single;own;unskilled resident;(40,50];good
+radio/tv;1154;male single;own;unskilled resident;(30,40];good
+new car;4006;male single;own;unskilled resident;(40,50];bad
+furniture/equipment;3069;male single;for free;skilled;(18,30];good
+radio/tv;1740;male mar/wid;rent;skilled;(18,30];good
+new car;2353;male div/sep;own;skilled;(40,50];good
+new car;3556;male single;own;skilled;(18,30];good
+radio/tv;2397;male single;own;skilled;(30,40];bad
+repairs;454;male mar/wid;own;unskilled resident;(18,30];good
+radio/tv;1715;female div/dep/mar;own;skilled;(18,30];good
+radio/tv;2520;male single;own;unskilled resident;(18,30];bad
+radio/tv;3568;female div/dep/mar;rent;high qualif/self emp/mgmt;(50,60];good
+radio/tv;7166;male mar/wid;rent;skilled;(18,30];good
+new car;3939;male single;own;unskilled resident;(30,40];good
+repairs;1514;male single;own;skilled;(18,30];good
+new car;7393;male single;own;unskilled resident;(40,50];good
+new car;1193;female div/dep/mar;rent;unemp/unskilled non res;(18,30];bad
+business;7297;male single;rent;skilled;(30,40];bad
+radio/tv;2831;female div/dep/mar;own;skilled;(30,40];good
+radio/tv;1258;female div/dep/mar;own;unskilled resident;(50,60];good
+radio/tv;753;female div/dep/mar;own;skilled;(60,70];good
+business;2427;male single;own;skilled;(40,50];good
+new car;2538;male single;own;unskilled resident;(40,50];bad
+new car;1264;male mar/wid;rent;skilled;(18,30];bad
+furniture/equipment;8386;male single;own;skilled;(40,50];bad
+business;4844;male single;rent;high qualif/self emp/mgmt;(30,40];bad
+new car;2923;female div/dep/mar;own;high qualif/self emp/mgmt;(18,30];good
+used car;8229;male single;own;skilled;(18,30];bad
+furniture/equipment;2028;male single;own;unskilled resident;(18,30];good
+furniture/equipment;1433;female div/dep/mar;rent;skilled;(18,30];good
+business;6289;male div/sep;own;skilled;(30,40];good
+radio/tv;1409;female div/dep/mar;own;skilled;(60,70];good
+used car;6579;male single;for free;high qualif/self emp/mgmt;(18,30];good
+radio/tv;1743;male single;own;unskilled resident;(40,50];good
+education;3565;male single;own;unskilled resident;(30,40];good
+radio/tv;1569;male single;own;unskilled resident;(30,40];good
+radio/tv;1936;male mar/wid;rent;unskilled resident;(18,30];good
+furniture/equipment;3959;male single;own;high qualif/self emp/mgmt;(18,30];good
+new car;2390;male single;own;skilled;(40,50];good
+furniture/equipment;1736;female div/dep/mar;own;unskilled resident;(30,40];good
+used car;3857;male div/sep;own;high qualif/self emp/mgmt;(30,40];good
+radio/tv;804;male single;own;skilled;(30,40];good
+radio/tv;1845;male single;for free;skilled;(18,30];bad
+used car;4576;male single;own;skilled;(18,30];good
