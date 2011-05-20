@@ -1,0 +1,243 @@
+\chapter{An'alisis descriptivo}
+
+%-----------------------------------------------------------
+\section{Conceptos b'asicos}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%descan1.pdf pr'actico totalmente%
+
+%GUIAS PRACTICAS%
+%Chapter 4 Descriptive statistics and R graphics. Usar como gu'ia.%
+%http://www.r-bloggers.com/r-tutorial-series-summary-and-descriptive-statistics/
+%http://geography.uoregon.edu/bartlein/old_courses/geog414f03/lectures/lec04.htm
+%http://www.dissertation-statistics.com/population-sample.html
+%http://www.socialresearchmethods.net/kb/sampstat.htm
+
+El an'alisis descriptivo o exploratorio tiene por objetivo describir los datos mediante t'ecnicas estad'isticas y gr'aficas. El an'alisis descriptivo nos da un primer acercamiento a los datos y extrae caracter'isticas importantes que se utilizar'an para an'alisis posteriores. Este tipo de an'alisis es una herramienta 'util para encontrar errores, ver patrones en los datos, encontrar y generar hip'otesis. A continuaci'on se describen conceptos b'asicos~\cite{st1,st2,st3,staplicaciones} que se utilizan a lo largo del documento.
+
+
+\begin{description}
+%-----------------------
+\item [Poblaci'on] \hfill \\
+Es el conjunto completo de elementos de nuestro inter'es. Las caracter'isticas de una poblaci'on son las medidas estad'isticas de cada uno de sus elementos.
+
+\item [Muestra] \hfill \\
+Es una proporci'on de la poblaci'on. Una muestra posee las mismas caracter'isticas de la poblaci'on si se obtiene aleatoriamente. Las muestras aleatorias deben cumplir con dos caracter'isticas: 1) todos los elementos deben tener la misma oportunidad de ser seleccionados y 2) la selecci'on de un elemento debe ser independiente de la selecci'on de otro. 
+
+La diferencia entre una poblaci'on y una muestra es que con la poblaci'on, nuestro inter'es es identificar sus caracter'isticas mientras que con la muestra, nuestro inter'es es hacer inferencias sobre las caracter'isticas de la poblaci'on. Si la medida (e.g, media, mediana) se obtiene de la poblaci'on completa, se le llama \textbf{par'ametro} mientras que si se obtiene de una muestra, se le llama \textbf{estimaci'on}.
+
+\item [Estad'istica descriptiva] \hfill \\
+Describe los datos sin ning'un tipo de generalizaci'on. Ejemplo: porcentaje de menores de edad que utilizan redes sociales.
+
+\item [Inferencia estad'istica] \hfill \\
+Generaliza o induce algunas propiedades de la poblaci'on a partir de la cual los datos se tomaron. Ejemplo: \textquestiondown es la satisfacci'on del usuario de sistemas de recomendaci'on significativamente diferente entre hombres y mujeres?
+
+\item [Variables categ'oricas] \hfill \\
+No aparecen de forma num'erica y tienen dos o m'as categor'ias o valores. Pueden ser nominales y ordinales. Una variable nominal no tiene un orden (e.g., rojo, amarillo, suave), mientras que la ordinal designa un orden (e.g., primer lugar, segundo lugar).
+
+\item [Variables num'ericas] \hfill \\
+Son aquellas que pueden tomar cualquier valor dentro de un intervalo finito o infinito. Hay dos tipos de variable num'erica: de intervalo y radio. Una variable de intervalo tienen valores cuyas diferencias son interpretables pero no tienen un cero verdadero, un ejemplo es la temperatura. Pueden ser sumadas o restadas pero no multiplicadas o divididas (e.g., hoy no es el doble de c'alido que ayer). Una variable de radio tiene un cero verdadero y pueden sumarse, multiplicarse o dividirse (e.g., el peso).
+
+Para cada tipo de variable hay diferentes t'ecnicas de an'alisis.
+\end{description}
+
+El an'alisis puede ser \textbf{univariable}, en el cual se exploran las variables o atributos uno por uno o \textbf{bivariable}, en el cual simult'aneamente se analizan dos variables para conocer la relaci'on entre ellas, su fuerza o si hay diferencias entre 'ellas y el significado de las mismas. El an'alisis bivariable puede ser entre dos variables num'ericas, dos variables categ'oricas y una vari'able num'erica y una categ'orica.
+Los valores estad'isticos de las variables son las caracter'isticas  que se extraer'an de los perfiles de usuario e 'items.
+
+\section{An'alisis univariable}
+En este tipo de an'alisis se exploran las variables una por una y dependiendo de su tipo (i.e., categ'orica, num'erica) se aplican distintos tipos de an'alisis y gr'aficas.
+
+Para las \textbf{variables categ'oricas} el an'alisis exploratorio b'asicamente es un conteo del n'umero de valores de la variable especificada y el porcentaje de valores de la variable espec'ifica. Se utilizan las gr'aficas de barras y de pay. Por otro lado, las \textbf{variables num'ericas} se analizan calculando el m'inimo, m'aximo, media, mediana, moda, rango, los cuantiles, la varianza, la desviaci'on est'andar, el coeficiente de variaci'on, la asimetr'ia y la curtosis. Se visualizan mediante histogramas y gr'aficas de caja.
+
+%Diferencia entre histogramas y gr'aficas de barra: las gr'aficas de barra se usan para mostrar la frecuencia o proporci'on de las variables categ'oricas. Traducen los datos de tablas de frecuencia a una representaci'on visual. Un histograma se usa para visualizar la distribuci'on de las variables cont'inuas y el tama\~{n}o del bin es importante.
+
+El conjunto de medidas son las caracter'isticas que nos interesan para el modelo que queremos obtener por lo que es importante recordar lo que cada una representa. 
+
+%http://www.chem.utoronto.ca/coursenotes/analsci/StatsTutorial/MeasMeanVar.html
+\begin{description}
+%-----------------------
+\item [Media] \hfill \\
+La media, en estad'istica, puede tener dos significados: la media aritm'e-\linebreak es una medida de tendencia central de un espacio muestral. En un conjunto de datos, es la suma de una lista dividida por el n'umero de miembros de la lista. Se denota por $\bar{x}$ o $\mu$ y puede verse como la salida esperada $E(x)$ de un evento $x$ tal que si la medida se realiza varias veces, el valor promedio ser'ia la salida m'as com'un.
+
+\[
+    \bar{x} =\frac{1}{n}\sum_{i=1}^{n}x_i = \frac{1}{n}(x_1+x_2+...+x_n)
+\]
+
+La media describe la ubicaci'on central de los datos y la desviaci'on est'andar describe la dispersi'on. La media de una muestra puede ser diferente de la media poblacional especialmente para muestras peque\~{n}as pero a mayor tama~{n}o de la muestra, es m'as probable que la media muestral se acerque a la media poblacional.
+
+Es el primer momento de la distribuci'on de una variable aleatoria. Un momento es una medida cuantitativa de la forma de un conjunto de puntos.
+
+No es una medida muy robusta para describir la tendencia central de un conjunto de datos pues es f'acilmente influenciada por valores at'ipicos. Para distribuciones asim'etricas la media no concuerda con el centro por lo que en esos casos se prefiere la media para describir la tendencia central.
+
+%-----------------------
+\item [Mediana] \hfill \\
+Es el n'umero que separa el conjunto de datos por la mitad. Para encontrarla se ordenan los n'umeros en orden ascendente o descendente y se escoge el que est'a a la mitad. Si la lista tiene un n'umero par de elementos, la mediana se calcula obteniendo la media de los n'umeros centrales. Para cualquier distribuci'on de probabilidad , la mediana satisface las siguientes desigualdades:
+
+\begin{center}
+$    Pr(X \leq m) \geq \frac{1}{2} $
+y 
+$
+    Pr(X \geq m) \geq \frac{1}{2}
+$
+\end{center}
+
+Puede usarse como medida de localizaci'on de tendencia central cuando una distribuci'on es asim'etrica. Es igual al segundo cuartil.
+%-----------------------
+\item [Moda] \hfill \\
+La moda es el valor que ocurre con mayor frecuencia en un conjunto de datos. Puede diferir mucho de la media y mediana debido a la asimetr'ia de las distribuciones.
+%-----------------------
+\item [Rango] \hfill \\
+El rango es la diferencia entre los valores m'aximo y m'inimo de valores en un conjunto. Como solamente depende de dos observaciones es una medida d'ebil de la dispersi'on excepto si la muestra es grande.
+%-----------------------
+%http://stattrek.com/AP-Statistics-1/Boxplot.aspx
+%http://www.estadisticaparatodos.es/taller/graficas/cajas.html
+
+\item [Varianza y desviaci'on est'andar] \hfill \\
+La varianza describe que tan lejos est'an los valores de la media. La varianza y la desviaci'on est'andar ($\sigma$ y $\sigma^2$ respectivamente) son indicadores de la dispersi'on de los datos dentro de una muestra o poblaci'on. Como en el caso de la media, la varianza de la poblaci'on y desviaci'on est'andar son las desviaciones esperadas. La varianza de una poblaci'on se calcula usando la media de una poblaci'on:
+
+\[
+    \sigma^2 = \frac{1}{n}\sum_{i=1}{(x_i - \mu)}^2
+\]
+
+Para calcular la varianza muestral, encontramos los errores de todas las mediciones, 'esto es, la diferencia entre cada medida y la media muestral, $x_i - \bar{x}$. Luego se eleva al cuadrado cada valor y se suman, se divide entre el n'umero de observaciones menos $1$. La desviaci'on est'andar muestral es la ra'iz cuadrada de la varianza muestral $\sqrt{s^2}$. %La varianza muestral usa un grado de libertad de $n-1$ porque se pierde un grado de libertad al estimar la media de la poblaci'on con la media muestral.
+
+Es el segundo momento de una distribuci'on.
+
+
+\item [Cuantiles] \hfill \\
+Son puntos tomados en intervalos regulares de la distribuci'on acumulativa de una variable aleatoria. Dado un conjunto de datos ordenados, los cuantiles-q dividen el conjunto en q subconjuntos de igual tama\~{n}o; son los valores que marcan los l'imites entre subconjuntos consecutivos. Los casos especiales son: cuartiles, decentiles, centiles y percentiles.
+
+\medskip
+\textbf{Cuartiles}. Un cuartil es cualquiera de los tres valores que dividen los datos ordenados en cuatro partes iguales. El primer cuartil (Q1) de un grupo de valores es el valor en el que cae el $25$\% de los datos. El segundo cuartil Q2 es la mediana (el $50$\% de los datos). El tercer cuartil Q3 de un grupo de valores es en el que cae el $75$\% de los datos. La distancia entre el primero y el tercer cuartiles se conoce como el rango inter-cuartil RIC (Q3-Q1) y a veces se usa como una alternativa robusta a la desviaci'on est'andar.
+
+Una gr'afica muy 'util para visualizar los cuartiles son los diagramas de caja; se les conoce tambi'en como diagramas de caja y bigotes (Figura~\ref{fig:bigotes}). Este tipo de gr'afica resume las siguientes medidas: mediana, cuartiles superior e inferior y valores m'inimo y m'aximo. La caja contiene el $50$\% central de los datos. La parte superior de la caja representa el $75$ percentil de los datos . La l'inea central representa la mediana y el primer y tercer cuartiles son las orillas de la caja. El 'area de la caja es el rango intercuartil. Los valores extremos, dentro de $1.5$ veces del rango intercuartil son los extremos de las l'ineas. Los puntos a mayor de $1.5$ veces el IQR de la mediana son potenciales valores at'ipicos. 
+
+\begin{figure}[h]
+    \begin{center}
+    \includegraphics[height=5cm,keepaspectratio]{theimg/boxplotdia}
+    \caption[Diagrama de caja y bigotes]{Diagrama de caja y bigotes}
+    \label{fig:bigotes}
+    \end{center}
+\end{figure}
+
+\medskip
+\textbf{Valores at'ipicos}. Un valor at'ipico es una observaci'on num'ericamente distante del resto de los datos y puede representar datos err'oneos. Tomando como referencia la diferencia entre el primer cuartil (Q1) y el tercer cuartil Q3, o valor intercuartil, en un diagrama de caja se considera un valor atípico el que se encuentra 1,5 veces esa distancia de uno de esos cuartiles (at'ipico leve) o a 3 veces esa distancia (atípico extremo).
+
+%Para ello se calcula cuándo se consideran atípicos los valores. Son aquellos inferiores a Q1-1.5*RIC o superiores a Q3+1.5*RIC.
+
+%Además, se pueden considerar valores extremadamente atípicos aquellos que exceden Q1-3*RIC o Q3+3*RIC.
+
+%\item [Coeficiente de variaci'on]
+\item [Asimetr'ia]\hfill \\
+Es una medida de la asimetr'ia de una distribuci'on que se define por la siguiente f'ormula:
+
+\begin{center}
+$\gamma_1 = \mu_3/{\mu_2}^{3/2}$
+\end{center}
+
+El valor puede ser positivo, negativo o indefinido.  Como regla, una asimetr'ia negativa indica que la media de los datos es menor que la mediana y la distribuci'on est'a concentrada a la izquierda; la asimetr'ia positiva indica que la media es mayor que la mediana y la distribuci'on est'a concentrada a la derecha. Esta regla aplica solamente a distribuciones unimodales cuyos histogramas tienen un solo pico. Cualitativamente, una asimetr'ia negativa indica que la cola del lado izquierdo de la distribuci'on de probabilidad es m'as larga que la cola derecha y el grueso de los valores, incluyendo la mediana cae en el lado derecho de la media. Una asimetr'ia positiva indica lo contrario. Un valor de cero indica que los valores son relativamente distribuidos igual a ambos lados de la media. Es el tercer momento de la media. Conocer la asimetr'ia del conjunto de datos indica si las desviaciones de la media ser'an positivas o negativas.
+
+\item [Curtosis]\hfill \\
+Es el cuarto momento central y mide si la distribuci'on es alta y delgada o corta y gruesa en comparaci'on a la distribuci'on normal de la misma varianza. Puede decirse que la curtosis mide qu'e tan puntiaguda es la distribuci'on. Valores altos de curtosis indican que la varianza es el resultado de desviaciones extremas infrecuentes. Se define como:
+
+\begin{center}
+$\gamma_2 = \frac{\mu_4}{\delta^4} - 3$ 
+\end{center}
+
+Una distribuci'on con curtosis elevada tiene un pico agudo y largo, colas anchas, mientras que con baja curtosis tieen picos m'as redondeados y colas m'as delgadas y cortas.
+\end{description}
+
+%-----------------------------------------------------------
+\section{En R}
+\begin{verbatim}
+> setwd("path_name")
+> credit <- read.csv(file = "../data/credit-g.csv", sep = ",",
+                     na.strings = "NULL")
+> attach(credit)
+\end{verbatim}
+
+Cargar librer'ia moments
+\begin{verbatim}
+install.packages("moments")
+library(moments)      
+\end{verbatim}
+
+%-----
+\subsection{Moda}
+\begin{verbatim}
+Mode <- function (x) {
+    cngtable <- table(x)
+    n <- length(cngtable)
+    mode <- as.double(names(sort(cngtable)[n]))
+    mode
+}
+
+moda <- Mode(age)
+moda
+\end{verbatim}
+%-----
+\subsection{Rango}
+\begin{verbatim}
+Rng <- function(x) {
+    rangem <- diff(range(x))
+    rangem
+}
+
+rango <- Rng(age)
+rango
+\end{verbatim}
+%-----
+\subsection{Cuantiles}
+\begin{verbatim}
+Quantiles <- function(x) {
+    quants <- quantile(x)
+    quantval <- as.double(names(table(quants)))
+    quantval
+}
+
+q <- Quantiles(sort(age))
+q
+\end{verbatim}
+
+%-----
+\subsection{Media}
+\begin{verbatim}
+media <- round(mean(age),2)
+media
+\end{verbatim}
+
+%-----
+\subsection{Mediana}
+\begin{verbatim}
+mediana <- round(median(age),2)
+mediana
+\end{verbatim}
+
+%-----
+\subsection{Varianza}
+\begin{verbatim}
+varianza <- round(var(age),2)
+varianza
+\end{verbatim}
+
+%-----
+\subsection{Desviaci'on est'andar}
+
+\begin{verbatim}
+sd <- round(sd(age),2)
+sd
+\end{verbatim}
+
+%-----
+\subsection{Curtosis}
+\begin{verbatim}
+kurtosis <- round(kurtosis(age),2)
+kurtosis
+\end{verbatim}
+
+%\begin{verbatim}
+%# Skewness
+%sk <- round(skewness(age),2)
+%sk
+%\end{verbatim}
+
+

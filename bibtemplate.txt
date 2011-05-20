@@ -1,0 +1,348 @@
+Conference Entry
+An article in the proceedings of a conference. This entry is identical to the ‘inproceedings’ entry and is included for compatibility with another text formatting system. 
+@CONFERENCE{ something unique,
+AUTHOR       = {required}, 
+Editor       = {},
+TITLE        = {required},
+BOOKTITLE    = {required},
+Publisher    = {},
+YEAR         = {required},
+Pages        = {},
+Organization = {},
+Address      = {},
+Month        = {},
+Note         = {},
+Key          = {}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    
+@inproceedings{,
+author = {required},
+title = {required},
+booktitle = {required},
+year = {required}
+editor = {},
+pages = {},
+number = {},
+publisher = {},
+address = {},
+month = {},
+note = {},
+key = {}
+}   
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+@phdthesis{,
+  author = "",
+   title = "",
+  school = "",
+    year = }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@unpublished{,
+  author = "",
+   title = "",
+    note = "",
+   month = "",
+    year = }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    
+Article Entry
+An article from a journal or magazine. 
+@ARTICLE{ something unique,
+AUTHOR    = {required}, 
+TITLE     = {required},
+JOURNAL   = {required},
+YEAR      = {required},
+Volume    = {},
+Number    = {},
+Pages     = {},
+Month     = {},
+Note      = {},
+Key       = {}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Book Entry
+A book with an explicit publisher.
+@BOOK{ something unique,
+AUTHOR    = {or EDITOR}, 
+EDITOR    = {or AUTHOR},
+TITLE     = {required},
+PUBLISHER = {required},
+YEAR      = {required},
+Volume    = {},
+Series    = {},
+Address   = {},
+Edition   = {},
+Month     = {},
+Note      = {},
+Key       = {}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Booklet Entry
+A work that is printed and bound, but without a named publisher or sponsoring institution. 
+@BOOKLET{ something unique,
+TITLE        = {required},
+Author       = {}, 
+Howpublished = {},
+Address      = {},
+Month        = {},
+Year         = {},
+Note         = {},
+Key          = {}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Inbook Entry
+A part of a book, which may be a chapter and/or a range of pages.
+@INBOOK{ something unique,
+AUTHOR    = {or EDITOR}, 
+EDITOR    = {or AUTHOR},
+TITLE     = {required},
+CHAPTER   = {or PAGES},
+PAGES     = {or CHAPTER},
+PUBLISHER = {required},
+YEAR      = {required},
+Volume    = {},
+Series    = {},
+Address   = {},
+Edition   = {},
+Month     = {},
+Note      = {},
+Key       = {}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Incollection Entry
+A part of a book with its own title. 
+@INCOLLECTION{ something unique,
+AUTHOR       = {required}, 
+Editor       = {},
+TITLE        = {required},
+BOOKTITLE    = {required},
+Pages        = {},
+Publisher    = {},
+YEAR         = {required},
+Organization = {},
+Address      = {},
+Month        = {},
+Note         = {},
+Key          = {}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Manual Entry
+Technical documentation. 
+@MANUAL{citation_key,
+           required_fields [, optional_fields] }
+
+Required fields: title
+Optional fields: author, organization, address, edition, month, year, note, key
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Master's Thesis
+@MASTERSTHESIS{citation_key,
+                  required_fields [, optional_fields] }
+Required fields: author, title, school, year
+Optional fields: address, month, note, key 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Miscelanious Entry
+Use this type when nothing else seems appropriate.
+@MISC{citation_key,
+         required_fields [, optional_fields] }
+Required fields: none
+Optional fields: author, title, howpublished, month, year, note, key 
+@MISC{ something unique,
+author       = {}, 
+title        = {}, 
+howpublished = {}, 
+month        = {}, 
+year         = {}, 
+note         = {}, 
+key          = {}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+PhD Thesis
+@PHDTHESIS{citation_key,
+              required_fields [, optional_fields] }
+Required fields: author, title, school, year
+Optional fields: address, month, note, key 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Proceedings Entry
+The proceedings of a conference.
+@PROCEEDINGS{citation_key,
+                required_fields [, optional_fields] }
+Required fields: title, year
+Optional fields: editor, publisher, organization, address, month, note, key 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Techreport Entry
+A report published by a school or other institution, usually numbered within a series. 
+@TECHREPORT{citation_key,
+               required_fields [, optional_fields] }
+Required fields: author, title, institution, year
+Optional fields: type, number, address, month, note, key 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Unpublished Entry
+A document with an author and title, but not formally published.
+@UNPUBLISHED{citation_key,
+                required_fields [, optional_fields] } 
+Required fields: author, title, note
+Optional fields: month, year, key
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+key field
+
+http://www.cs.aau.dk/~normark/scheme/examples/bibtex/sample.bib
+
+Used for alphabetizing and creating a label when the “author” and “editor” fields are missing. This field should not be confused with the citation key that appears in the \cite command and at the beginning of the entry. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Ejemplos:
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Misc{e1-207a-e99,
+  author = 	 {Max Rydahl Andersen and Claus Nyhus Christensen and Vathanan Kumar and S{\o}ren Staun-Pedersen  and Kristian Lykkegaard S{\o}rensen},
+  title = 	 {The {E}lucidator - for {Java}},
+  howpublished = {Preliminary master thesis report},
+  month = 	 {January},
+  year = 	 {2000},
+  note = 	 {Available from http://dopu.cs.auc.dk},
+  url = 	 {http://dopu.cs.auc.dk}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@InBook{Kristensen83,
+  author = 	 {B. B. Kristensen and Ole L. Madsen and B. M{\ou}ller-Pedersen and K. Nygaard},
+  editor = 	 {P. Degano and E. Sandewall},   
+  title = 	 {Integrated Interactive Computing Systems},
+  chapter = 	 {Syntax-directed program modularization},
+  publisher = 	 {North-Holland, Amsterdam},
+  year = 	 {1983},
+  pages = 	 {207-219}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@InProceedings{Chen95,
+  author = 	 {Yih-Farn R. Chen and Glenn S. Fowler
+                  and Eleftherios Koutsofios and Ryan S. Wallach},
+  title = 	 {Ciao: A Graphical Navigator for Software
+                  and Document Repositories},
+  booktitle = 	 {International Conference on Software Maintenance},
+  pages = 	 {66--75},
+  year = 	 {1995}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@InProceedings{Korn99,
+  author = 	 {Jeffrey Korn and Yih-Farn R. Chen
+                  and Eleftherios Koutsofios},
+  title = 	 {Chava: Reverse Engineering and Tracking of Java Applets},
+  booktitle =    {The Sixth Working Conference on Reverse Engineering},
+  pages =        {314--325},
+  year =         {1999}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@MastersThesis{e1-207a-f00,
+  author =       {Max Rydahl Andersen and Claus Nyhus Christensen and Kristian
+                  Lykkegaard S{\o}rensen},
+  title =        {Internal documentation in an Elucidative environment},
+  school =       {Aalborg University},
+  year =         {2000},
+  month =        {June},
+  note = 	 {Available from http://dopu.cs.auc.dk},
+  url = 	 {http://dopu.cs.auc.dk}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Misc{Beebe00,
+  author = 	 {Nelson H. F. Beebe},
+  title = 	 {A bibliography of Literate Programming},
+  howpublished = {http://\-www.\-math.\-utah.\-edu/pub/\-tex/bib/\-litprog.htm},
+  year = 	 {2000},
+  url =          {http://www.math.utah.edu/pub/tex/bib/litprog.htm}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@InProceedings{Normark00a,
+  author = 	 {Kurt N{\o}rmark and Max Rydahl Andersen and Claus Nyhus Christensen and Vathanan Kumar and S{\o}ren Staun-Pedersen and Kristian Lykkegaard S{\o}rensen},
+  title = 	 {Elucidative Programming in {Java}},
+  booktitle = 	 {The Proceedings on the eighteenth annual international conference on Computer documentation (SIGDOC)},
+  year = 	 {2000},
+  month = 	 {September},
+  organization = {ACM}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@InProceedings{Green98,
+  author = 	 {Robin Green},
+  title = 	 {Productivity Tools for Web-based Information},
+  booktitle = 	 {Proceedings on the sixteenth annual international conference on Computer documentation},
+  pages = 	 {219-226},
+  year = 	 {1998},
+  month = 	 {September}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@InProceedings{Normark00b,
+  author = 	 {Kurt N{\o}rmark},
+  title = 	 {A Suite of WWW-based Tools for Advanced Course Management},
+  booktitle = 	 {ITiCSE'2000 - Innovation and Technology in Computer Science Education},
+  pages = 	 {65--68},
+  year = 	 {2000},
+  month = 	 {July},
+  publisher =    {ACM Press},
+  note = 	 {Also Available from http://www.cs.auc.dk/~normark/laml/},
+  url =          {http://www.cs.auc.dk/~normark/laml/papers/educational-applications/www-education-paper.pdf}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Misc{Normark96d,
+  author = 	 {Kurt Nørmark},
+  title = 	 {Dynamic Modelling With Dynamo},
+  howpublished = {Poster Synopsis from OOPSLA 1996},
+  year = 	 {1996},
+  note = 	 {Available from http://www.cs.auc.dk/~normark/dyn-models/oopsla-96-poster/synopsis.pdf},
+  url = 	 {http://www.cs.auc.dk/~normark/dyn-models/oopsla-96-poster/synopsis.pdf}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Misc{Larsen98,
+  author = 	 {Niels C. Larsen and Martin K. Molz and Kurt N{\o}rmark},
+  title = 	 {Graph Abstractions as the basis of an Extensible Graph Editing Tool},
+  howpublished = {Available from http://www.cs.auc.dk/~normark/ginger.html},
+  year = 	 {1998},
+  url =          {http://www.cs.auc.dk/~normark/ginger.html}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Article{Normark00c,
+  author = 	 {Kurt Nørmark},
+  title = 	 {Elucidative Programming},
+  journal = 	 {Nordic Journal of Computing},
+  year = 	 {2000},
+  volume = 	 {7},
+  number = 	 {2},
+  pages =        {87--105}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Book{Meyer97,
+  author = 	{Bertrand Meyer},
+  title = 	{Object-oriented software construction},
+  edition =     {second edition},
+  publisher = 	{Prentice Hall},
+  year = 	{1997},
+  url =         {http://www.eiffel.com/doc/oosc.html},
+  seminar =     {kontrakter},
+  kategori =    {A}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Para URL
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@misc{trsoccerbots,
+  author = "Mykel J. Kochenderfer",
+  title = "{TRS}occerbots-url",
+  note = {\url{http://www.trsoccerbots.org/}. Fecha de consulta: 11 de Abril de 2006}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@misc{dcg:robertson,
+  author = "Dave Stuart Robertson",
+  title = "QuickProlog online book-url",
+  year = "1998",
+	address = "The University of Edinburgh",
+  note = {\url{http://www.dai.ed.ac.uk/groups/ssp/bookpages/quickprolog/quickprolog.html}. Fecha de consulta: 14 de Julio de 2008}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@techreport{mitchell:tr,
+    author = "Tom Mitchell",
+	title ="The discipline of machine learning",
+	number = "CMU ML-06 108",
+	address = "Carnegie Mellon University",
+	year = "2006"
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@phdthesis{benson:thesis,
+ author = {Benson, Scott Sherwood},
+ title = {Learning action models for reactive autonomous agents},
+ year = {1996},
+ school = {Stanford University},
+ address = {Stanford, CA, U.S.A.},
+ }

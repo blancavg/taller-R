@@ -1,0 +1,149 @@
+\chapter{Tipos de datos y funciones b'asicas}
+
+%-----------------------------------------------------------
+\section{N'umeros}
+
+\begin{verbatim}
+var1 <- 54
+var1
+
+var2 <- sqrt(var1*8)
+var2
+\end{verbatim}
+%-----------------------------------------------------------
+\section{Vectores}
+
+\begin{verbatim}
+vector <- c(1,2,3,4,5)
+vector[0]
+vector[1]
+
+cadena <- "uno"
+cadena
+
+lcadena <- c("casa","manzana","uva")
+lcadena
+
+vlogico <- c(TRUE,FALSE,TRUE,TRUE,FALSE)
+vlogico
+\end{verbatim}
+
+%-----------------------------------------------------------
+\section{Dataframes}
+
+\begin{verbatim}
+c1 <- c(25,26,27,28)
+c2 <- c("Ana", "Lola", "Luis", "Pedro")
+c3 <- c(TRUE,TRUE,TRUE,FALSE)
+mydata <- data.frame(c1,c2,c3)
+names(mydata) <- c("ID","Nombre","Aprobado") # nombres de variables
+\end{verbatim}
+
+Otros tipos de datos son: arrays, listas y factores.
+%-----------------------------------------------------------
+\section{Exportar e importar datos}
+\begin{verbatim}
+    > setwd("path_name")
+    > credit <- read.csv(file = "../data/credit-g.csv", sep = ",",
+                         na.strings = "NULL")
+\end{verbatim}
+%-----------------------------------------------------------
+\section{Despliegue de objetos}
+\begin{verbatim}
+ls()  # lista de objetos
+names(credit) # variables de credit
+str(credit) # estructura de credit
+levels(credit$foreign_worker) # niveles(valores de variable)
+dim(credit) # dimensiones (ren x cols)
+class(credit) # clase del objeto
+credit  # objeto
+head(credit, n=10)
+tail(credit, n=10)
+credit$purpose
+#purpose
+attach(credit)  # coloca la bd en el path
+purpose
+\end{verbatim}
+%-----------------------------------------------------------
+\section{Renglones, columnas, m'inimo y m'aximo}
+
+\begin{verbatim}
+# Explorando conteo
+ren <- nrow(credit)   # raw row count
+col <- ncol(credit)
+
+# Min y Max 
+agemin <- min(age,na.rm = TRUE) # min sin NULLS en age
+agemax <- max(age,na.rm = TRUE)
+
+ammin <- min(credit_amount,na.rm = TRUE) # min sin NULLS en age
+ammax <- max(credit_amount,na.rm = TRUE)
+\end{verbatim}
+%-----------------------------------------------------------
+\section{Subconjuntos}
+
+\begin{verbatim}
+# Filtrando por edad
+mayor30 <- subset(credit, age >= 30)
+renmayor30 <- nrow(mayor30)
+renmayor30
+
+en20y40 <- subset(credit, age >= 20  & age <= 40)
+ren20y40 <- nrow(en20y40)
+ren20y40
+\end{verbatim}
+
+%-----------------------------------------------------------
+\subsection{Muestra aleatoria}
+
+\begin{verbatim}
+set.seed(32) 
+dsmall <- credit[sample(nrow(credit), 10), ]
+dsmall
+\end{verbatim}
+
+%-----------------------------------------------------------
+\subsection{Definiendo rangos}
+\begin{verbatim}
+# Filtrando por bins 
+agebin = cut(age,breaks = c(18,30,40,50,60,70,80))
+agebinfile <- data.frame(purpose,credit_amount,personal_status,
+              housing,job,age=agebin,class)
+agebinfile
+\end{verbatim}
+
+%-----------------------------------------------------------
+\section{'Unicos, frecuencia, orden}
+\begin{verbatim}
+# unicos
+unicos <- unique(class)
+unicos
+nhousing <- length(unique(class))
+nhousing
+\end{verbatim}
+
+\begin{verbatim}
+# table
+mycredit <- table(dsmall$class)
+mycredit
+mycredit <- table(dsmall$age,dsmall$credit_amount)
+mycredit
+\end{verbatim}
+
+\begin{verbatim}
+# ordenar
+mycredit <- table(dsmall$housing)
+mycredit
+mylist <- sort(mycredit,decreasing = TRUE)
+mylist
+\end{verbatim}
+
+%-----------------------------------------------------------
+\section{Construyendo archivos de salida}
+
+\begin{verbatim}
+oframe = data.frame(purpose,credit_amount,personal_status,
+                    housing,job,age=agebin,class)
+write.table(oframe, row.names = FALSE, 
+            sep = ";",quote = FALSE, file="../data/output01_data.csv")
+\end{verbatim}

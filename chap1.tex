@@ -1,0 +1,79 @@
+\chapter{Introducci'on}
+
+%-----------------------------------------------------------
+\section{Instalaci'on}
+\begin{itemize}
+    \item Instalar R~\cite{Rproject} . Disponible para Linux, MacOS X y Windows:\\
+ en \url{http://cran.r-project.org/mirrors.html}.
+    \item Puede usarse en consola o instalar un IDE.\\
+Sugerencia: RStudio \url{http://www.rstudio.org/}.
+\end{itemize}
+
+El conjunto de datos que se usar'a es credit-g.csv~\cite{credit:2010}.
+
+En modo consola:
+\begin{verbatim}
+$ R
+\end{verbatim}
+
+%-----------------------------------------------------------
+\section{C'omo obtener ayuda}
+\begin{verbatim}
+help.start()        # ayuda general
+help(nombrefuncion) # detalles sobre la funcion
+?funcion            # igual que el anterior
+apropos("solve")    # lista las funciones que contienen "solve"
+example(solve)      # muestra un ejemplo del uso de solve
+help("*")
+vignette()           
+vignette("foo")     
+data()              # muestra los conjuntos de datos disponibles
+help(datasetname)   # detalles del conjunto de datos
+\end{verbatim}
+
+%-----------------------------------------------------------
+\section{Espacio de trabajo}
+Es el entorno de tu sesi'on actual en R e incluye cualquier objeto: vectores, matrices, dataframes, listas, funciones. Al finalizar la sesi'on se puede guardar el actual espacio de trabajo para que autom'aticamente se cargue en la siguiente.
+
+Algunos comandos est'andar para definir el espacio de trabajo son los siguientes:
+
+\begin{verbatim}
+getwd() # muestra el directorio actual
+ls()    # lista los objetos en el espacio de trabajo
+setwd(mydirectory)      # cambia el path a mydirectory
+setwd("c:/docs/mydir")  # notar / en vez de \ en Windows
+setwd("/usr/rob/mydir") # en Linuz
+history() # despliega los 25 comandos recientes
+history(max.show=Inf) # despliega los comandos previos
+q() # quit R. 
+\end{verbatim}
+
+\section{Packages}
+\begin{verbatim}
+.libPaths() # obtiene ubicación de la librería
+library()   # muestra los paquetes instalados
+search()    # muestra los paquetes cargados
+# descarga e instala paquetes del repositorio CRAN
+install.packages("nombredelpaquete")  
+library(package) # carga el paquete
+\end{verbatim}
+
+\section{Scripts}
+\begin{verbatim}
+# en Linux
+R CMD BATCH [options] my_script.R [outfile] 
+
+# en ms windows (ajustar el path a R.exe)
+"C:\Program Files\R\R-2.5.0\bin\R.exe" CMD BATCH
+   --vanilla --slave "c:\my projects\my_script.R" 
+
+source("myfile")
+sink("record.lis") # direcciona la salida al archivo record.lis
+\end{verbatim}
+
+%http://cran.r-project.org/doc/manuals/R-intro.html#Data-permanency-and-removing-objects
+%http://www.statmethods.net/input/index.html
+%http://www.cyclismo.org/tutorial/R/input.html
+%-----------------------------------------------------------
+
+
